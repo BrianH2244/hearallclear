@@ -1,0 +1,1193 @@
+[2020-02-08 16:54:53 : INFO] - Could not find file for image: ID=131, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-ear_wide-1.jpg 
+[2020-02-08 16:54:53 : INFO] - Could not find file for image: ID=122, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-hearing-aid-logo-5.png 
+[2020-02-08 16:54:53 : INFO] - Could not find file for image: ID=120, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-favicon-3.png 
+[2020-02-08 16:54:53 : INFO] - Could not find file for image: ID=118, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-hearing-aid-logo-4.png 
+[2020-02-08 16:54:53 : INFO] - Could not find file for image: ID=115, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-hearing-aid-logo-3.png 
+[2020-02-08 16:54:53 : INFO] - Could not find file for image: ID=28, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-hearing-aid-logo-2.png 
+[2020-02-08 16:54:53 : INFO] - Could not find file for image: ID=26, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-hearing-aid-logo-1.png 
+[2020-02-08 16:54:53 : INFO] - Could not find file for image: ID=24, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-ear_wide.jpg 
+[2020-02-08 16:54:53 : INFO] - Could not find file for image: ID=23, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-favicon-1.png 
+[2020-02-09 22:56:29 : INFO] - Re_Smush_It_Task with attachment ID : 228, autocreated on : February 09, 2020 10:56:29 
+[2020-02-09 23:01:43 : INFO] - 
+ 
+[2020-02-09 23:01:43 : INFO] - Header for logs at time:  Sun, 09 Feb 2020 23:01:43 +0000 on http://localhost/testsite 
+[2020-02-09 23:01:43 : INFO] - WP: 5.3.2 
+[2020-02-09 23:01:43 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-02-09 23:01:43 : INFO] - MySQL: 5.7.26 
+[2020-02-09 23:01:43 : INFO] - WPLANG: en_CA 
+[2020-02-09 23:01:43 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-02-09 23:01:43 : INFO] - Outbound connections: N 
+[2020-02-09 23:01:43 : INFO] - safe_mode: 0 
+[2020-02-09 23:01:43 : INFO] - max_execution_time: 300 
+[2020-02-09 23:01:43 : INFO] - memory_limit: 1G (used: 8.8M | 2M) 
+[2020-02-09 23:01:43 : INFO] - multisite: N 
+[2020-02-09 23:01:43 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-09 23:01:43 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-02-09 23:01:43 : INFO] - Set semaphore last lock (smush) time to 2020-02-09 23:01:43 
+[2020-02-09 23:01:43 : INFO] - Semaphore lock (smush) complete 
+[2020-02-09 23:01:43 : INFO] - Processing task with ID : 37, and type 'smush' 
+[2020-02-09 23:01:43 : INFO] - Re_Smush_It_Task with attachment ID : 228, autocreated on : February 09, 2020 10:56:29 
+[2020-02-09 23:01:43 : INFO] - 95 
+[2020-02-09 23:01:44 : INFO] - Backing up the original image - 2020/02/phonak-hearing-aid-models-updraft-pre-smush-original.jpg 
+[2020-02-09 23:01:44 : INFO] - Re_Smush_It_Task with attachment ID : 228, autocreated on : February 09, 2020 10:56:29 
+[2020-02-09 23:01:44 : INFO] - 95 
+[2020-02-09 23:01:45 : INFO] - Re_Smush_It_Task with attachment ID : 228, autocreated on : February 09, 2020 10:56:29 
+[2020-02-09 23:01:45 : INFO] - 95 
+[2020-02-09 23:01:46 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/02/phonak-hearing-aid-models.jpg.The file was compressed from 23.79 KB to 22.55 KB saving 5.2 percent using WP-Optimize 
+[2020-02-09 23:01:46 : INFO] - Completed processing task with ID : 37, and type 'smush' 
+[2020-02-09 23:01:46 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-02-09 23:01:46 : INFO] - Semaphore (smush) unlocked 
+[2020-02-09 23:01:46 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-02-09 23:01:46 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-02-09 23:01:46 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-02-09 23:11:47 : INFO] - 
+ 
+[2020-02-09 23:11:47 : INFO] - Header for logs at time:  Sun, 09 Feb 2020 23:11:47 +0000 on http://localhost/testsite 
+[2020-02-09 23:11:47 : INFO] - WP: 5.3.2 
+[2020-02-09 23:11:47 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-02-09 23:11:47 : INFO] - MySQL: 5.7.26 
+[2020-02-09 23:11:47 : INFO] - WPLANG: en_CA 
+[2020-02-09 23:11:47 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-02-09 23:11:47 : INFO] - Outbound connections: N 
+[2020-02-09 23:11:47 : INFO] - safe_mode: 0 
+[2020-02-09 23:11:47 : INFO] - max_execution_time: 300 
+[2020-02-09 23:11:47 : INFO] - memory_limit: 1G (used: 8.8M | 2M) 
+[2020-02-09 23:11:47 : INFO] - multisite: N 
+[2020-02-09 23:11:47 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-09 23:11:47 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-10 12:10:08 : INFO] - Could not find file for image: ID=131, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-ear_wide-1.jpg 
+[2020-02-10 12:10:08 : INFO] - Could not find file for image: ID=122, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-hearing-aid-logo-5.png 
+[2020-02-10 12:10:08 : INFO] - Could not find file for image: ID=120, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-favicon-3.png 
+[2020-02-10 12:10:08 : INFO] - Could not find file for image: ID=118, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-hearing-aid-logo-4.png 
+[2020-02-10 12:10:08 : INFO] - Could not find file for image: ID=115, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-hearing-aid-logo-3.png 
+[2020-02-10 12:10:08 : INFO] - Could not find file for image: ID=28, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-hearing-aid-logo-2.png 
+[2020-02-10 12:10:08 : INFO] - Could not find file for image: ID=26, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-hearing-aid-logo-1.png 
+[2020-02-10 12:10:08 : INFO] - Could not find file for image: ID=24, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-ear_wide.jpg 
+[2020-02-10 12:10:08 : INFO] - Could not find file for image: ID=23, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-favicon-1.png 
+[2020-02-11 01:16:46 : INFO] - Re_Smush_It_Task with attachment ID : 253, autocreated on : February 11, 2020 01:16:46 
+[2020-02-11 01:22:14 : INFO] - 
+ 
+[2020-02-11 01:22:14 : INFO] - Header for logs at time:  Tue, 11 Feb 2020 01:22:14 +0000 on http://localhost/testsite 
+[2020-02-11 01:22:14 : INFO] - WP: 5.3.2 
+[2020-02-11 01:22:14 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-02-11 01:22:14 : INFO] - MySQL: 5.7.26 
+[2020-02-11 01:22:14 : INFO] - WPLANG: en_CA 
+[2020-02-11 01:22:14 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-02-11 01:22:14 : INFO] - Outbound connections: N 
+[2020-02-11 01:22:14 : INFO] - safe_mode: 0 
+[2020-02-11 01:22:14 : INFO] - max_execution_time: 300 
+[2020-02-11 01:22:14 : INFO] - memory_limit: 1G (used: 8.8M | 2M) 
+[2020-02-11 01:22:14 : INFO] - multisite: N 
+[2020-02-11 01:22:14 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-11 01:22:14 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-02-11 01:22:14 : INFO] - Set semaphore last lock (smush) time to 2020-02-11 01:22:14 
+[2020-02-11 01:22:14 : INFO] - Semaphore lock (smush) complete 
+[2020-02-11 01:22:14 : INFO] - Processing task with ID : 38, and type 'smush' 
+[2020-02-11 01:22:14 : INFO] - Re_Smush_It_Task with attachment ID : 253, autocreated on : February 11, 2020 01:16:46 
+[2020-02-11 01:22:14 : INFO] - 95 
+[2020-02-11 01:22:15 : INFO] - Backing up the original image - 2020/02/phonak-tvlink-wireless-accessory-updraft-pre-smush-original.jpg 
+[2020-02-11 01:22:15 : INFO] - Re_Smush_It_Task with attachment ID : 253, autocreated on : February 11, 2020 01:16:46 
+[2020-02-11 01:22:15 : INFO] - 95 
+[2020-02-11 01:22:16 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/02/phonak-tvlink-wireless-accessory.jpg.The file was compressed from 9.64 KB to 9.41 KB saving 2.32 percent using WP-Optimize 
+[2020-02-11 01:22:16 : INFO] - Completed processing task with ID : 38, and type 'smush' 
+[2020-02-11 01:22:16 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-02-11 01:22:16 : INFO] - Semaphore (smush) unlocked 
+[2020-02-11 01:22:16 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-02-11 01:22:16 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-02-11 01:22:16 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-02-11 01:27:08 : INFO] - Re_Smush_It_Task with attachment ID : 254, autocreated on : February 11, 2020 01:27:08 
+[2020-02-11 01:29:19 : INFO] - Re_Smush_It_Task with attachment ID : 255, autocreated on : February 11, 2020 01:29:19 
+[2020-02-11 01:32:15 : INFO] - 
+ 
+[2020-02-11 01:32:15 : INFO] - Header for logs at time:  Tue, 11 Feb 2020 01:32:15 +0000 on http://localhost/testsite 
+[2020-02-11 01:32:15 : INFO] - WP: 5.3.2 
+[2020-02-11 01:32:15 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-02-11 01:32:15 : INFO] - MySQL: 5.7.26 
+[2020-02-11 01:32:15 : INFO] - WPLANG: en_CA 
+[2020-02-11 01:32:15 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-02-11 01:32:15 : INFO] - Outbound connections: N 
+[2020-02-11 01:32:15 : INFO] - safe_mode: 0 
+[2020-02-11 01:32:15 : INFO] - max_execution_time: 300 
+[2020-02-11 01:32:15 : INFO] - memory_limit: 1G (used: 8.8M | 2M) 
+[2020-02-11 01:32:15 : INFO] - multisite: N 
+[2020-02-11 01:32:15 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-11 01:32:15 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2020-02-11 01:32:15 : INFO] - Set semaphore last lock (smush) time to 2020-02-11 01:32:15 
+[2020-02-11 01:32:15 : INFO] - Semaphore lock (smush) complete 
+[2020-02-11 01:32:15 : INFO] - Processing task with ID : 39, and type 'smush' 
+[2020-02-11 01:32:15 : INFO] - Re_Smush_It_Task with attachment ID : 254, autocreated on : February 11, 2020 01:27:08 
+[2020-02-11 01:32:15 : INFO] - 95 
+[2020-02-11 01:32:17 : INFO] - Backing up the original image - 2020/02/phonak-compilot-II-wireless-accessory-updraft-pre-smush-original.jpg 
+[2020-02-11 01:32:17 : INFO] - Re_Smush_It_Task with attachment ID : 254, autocreated on : February 11, 2020 01:27:08 
+[2020-02-11 01:32:17 : INFO] - 95 
+[2020-02-11 01:32:18 : INFO] - Re_Smush_It_Task with attachment ID : 254, autocreated on : February 11, 2020 01:27:08 
+[2020-02-11 01:32:18 : INFO] - 95 
+[2020-02-11 01:32:19 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/02/phonak-compilot-II-wireless-accessory.jpg.The file was compressed from 18.69 KB to 18.03 KB saving 3.52 percent using WP-Optimize 
+[2020-02-11 01:32:19 : INFO] - Completed processing task with ID : 39, and type 'smush' 
+[2020-02-11 01:32:19 : INFO] - Processing task with ID : 40, and type 'smush' 
+[2020-02-11 01:32:19 : INFO] - Re_Smush_It_Task with attachment ID : 255, autocreated on : February 11, 2020 01:29:19 
+[2020-02-11 01:32:19 : INFO] - 95 
+[2020-02-11 01:32:20 : INFO] - Backing up the original image - 2020/02/phonak-compilot-II-wireless-accessory-1-updraft-pre-smush-original.jpg 
+[2020-02-11 01:32:20 : INFO] - Re_Smush_It_Task with attachment ID : 255, autocreated on : February 11, 2020 01:29:19 
+[2020-02-11 01:32:20 : INFO] - 95 
+[2020-02-11 01:32:22 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/02/phonak-compilot-II-wireless-accessory-1.jpg.The file was compressed from 10.52 KB to 9.88 KB saving 6.1 percent using WP-Optimize 
+[2020-02-11 01:32:22 : INFO] - Completed processing task with ID : 40, and type 'smush' 
+[2020-02-11 01:32:22 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-02-11 01:32:22 : INFO] - Semaphore (smush) unlocked 
+[2020-02-11 01:32:22 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2020-02-11 01:32:22 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-02-11 01:32:22 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2020-02-11 01:35:53 : INFO] - Re_Smush_It_Task with attachment ID : 256, autocreated on : February 11, 2020 01:35:53 
+[2020-02-11 01:36:50 : INFO] - Re_Smush_It_Task with attachment ID : 257, autocreated on : February 11, 2020 01:36:50 
+[2020-02-11 01:40:31 : INFO] - Re_Smush_It_Task with attachment ID : 258, autocreated on : February 11, 2020 01:40:31 
+[2020-02-11 01:42:23 : INFO] - 
+ 
+[2020-02-11 01:42:23 : INFO] - Header for logs at time:  Tue, 11 Feb 2020 01:42:23 +0000 on http://localhost/testsite 
+[2020-02-11 01:42:23 : INFO] - WP: 5.3.2 
+[2020-02-11 01:42:23 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-02-11 01:42:23 : INFO] - MySQL: 5.7.26 
+[2020-02-11 01:42:23 : INFO] - WPLANG: en_CA 
+[2020-02-11 01:42:23 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-02-11 01:42:23 : INFO] - Outbound connections: N 
+[2020-02-11 01:42:23 : INFO] - safe_mode: 0 
+[2020-02-11 01:42:23 : INFO] - max_execution_time: 300 
+[2020-02-11 01:42:23 : INFO] - memory_limit: 1G (used: 8.8M | 2M) 
+[2020-02-11 01:42:23 : INFO] - multisite: N 
+[2020-02-11 01:42:23 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-11 01:42:23 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2020-02-11 01:42:23 : INFO] - Set semaphore last lock (smush) time to 2020-02-11 01:42:23 
+[2020-02-11 01:42:23 : INFO] - Semaphore lock (smush) complete 
+[2020-02-11 01:42:23 : INFO] - Processing task with ID : 42, and type 'smush' 
+[2020-02-11 01:42:23 : INFO] - Re_Smush_It_Task with attachment ID : 257, autocreated on : February 11, 2020 01:36:50 
+[2020-02-11 01:42:23 : INFO] - 95 
+[2020-02-11 01:42:24 : INFO] - Backing up the original image - 2020/02/phonak-remote-mic-II-1-updraft-pre-smush-original.jpg 
+[2020-02-11 01:42:24 : INFO] - Re_Smush_It_Task with attachment ID : 257, autocreated on : February 11, 2020 01:36:50 
+[2020-02-11 01:42:24 : INFO] - 95 
+[2020-02-11 01:42:25 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/02/phonak-remote-mic-II-1.jpg.The file was compressed from 8.47 KB to 8.41 KB saving 0.76 percent using WP-Optimize 
+[2020-02-11 01:42:25 : INFO] - Completed processing task with ID : 42, and type 'smush' 
+[2020-02-11 01:42:25 : INFO] - Processing task with ID : 41, and type 'smush' 
+[2020-02-11 01:42:25 : INFO] - Re_Smush_It_Task with attachment ID : 256, autocreated on : February 11, 2020 01:35:53 
+[2020-02-11 01:42:25 : INFO] - 95 
+[2020-02-11 01:42:26 : INFO] - Backing up the original image - 2020/02/phonak-remote-mic-II-updraft-pre-smush-original.jpg 
+[2020-02-11 01:42:26 : INFO] - Re_Smush_It_Task with attachment ID : 256, autocreated on : February 11, 2020 01:35:53 
+[2020-02-11 01:42:26 : INFO] - 95 
+[2020-02-11 01:42:27 : INFO] - Re_Smush_It_Task with attachment ID : 256, autocreated on : February 11, 2020 01:35:53 
+[2020-02-11 01:42:27 : INFO] - 95 
+[2020-02-11 01:42:28 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/02/phonak-remote-mic-II.jpg.The file was compressed from 7.69 KB to 7.09 KB saving 7.76 percent using WP-Optimize 
+[2020-02-11 01:42:28 : INFO] - Completed processing task with ID : 41, and type 'smush' 
+[2020-02-11 01:42:28 : INFO] - Processing task with ID : 43, and type 'smush' 
+[2020-02-11 01:42:28 : INFO] - Re_Smush_It_Task with attachment ID : 258, autocreated on : February 11, 2020 01:40:31 
+[2020-02-11 01:42:28 : INFO] - 95 
+[2020-02-11 01:42:29 : INFO] - Backing up the original image - 2020/02/phonak-remote-mic-II-2-updraft-pre-smush-original.jpg 
+[2020-02-11 01:42:29 : INFO] - Re_Smush_It_Task with attachment ID : 258, autocreated on : February 11, 2020 01:40:31 
+[2020-02-11 01:42:29 : INFO] - 95 
+[2020-02-11 01:42:30 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/02/phonak-remote-mic-II-2.jpg.The file was compressed from 8.48 KB to 8.11 KB saving 4.44 percent using WP-Optimize 
+[2020-02-11 01:42:30 : INFO] - Completed processing task with ID : 43, and type 'smush' 
+[2020-02-11 01:42:30 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-02-11 01:42:30 : INFO] - Semaphore (smush) unlocked 
+[2020-02-11 01:42:30 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2020-02-11 01:42:30 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-02-11 01:42:30 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2020-02-11 01:47:18 : INFO] - Re_Smush_It_Task with attachment ID : 260, autocreated on : February 11, 2020 01:47:18 
+[2020-02-11 01:48:33 : INFO] - Re_Smush_It_Task with attachment ID : 262, autocreated on : February 11, 2020 01:48:33 
+[2020-02-11 01:52:41 : INFO] - 
+ 
+[2020-02-11 01:52:41 : INFO] - Header for logs at time:  Tue, 11 Feb 2020 01:52:41 +0000 on http://localhost/testsite 
+[2020-02-11 01:52:41 : INFO] - WP: 5.3.2 
+[2020-02-11 01:52:41 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-02-11 01:52:41 : INFO] - MySQL: 5.7.26 
+[2020-02-11 01:52:41 : INFO] - WPLANG: en_CA 
+[2020-02-11 01:52:41 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-02-11 01:52:41 : INFO] - Outbound connections: N 
+[2020-02-11 01:52:41 : INFO] - safe_mode: 0 
+[2020-02-11 01:52:41 : INFO] - max_execution_time: 300 
+[2020-02-11 01:52:41 : INFO] - memory_limit: 1G (used: 8.8M | 2M) 
+[2020-02-11 01:52:41 : INFO] - multisite: N 
+[2020-02-11 01:52:41 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-11 01:52:41 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2020-02-11 01:52:41 : INFO] - Set semaphore last lock (smush) time to 2020-02-11 01:52:41 
+[2020-02-11 01:52:41 : INFO] - Semaphore lock (smush) complete 
+[2020-02-11 01:52:41 : INFO] - Processing task with ID : 45, and type 'smush' 
+[2020-02-11 01:52:41 : INFO] - Re_Smush_It_Task with attachment ID : 262, autocreated on : February 11, 2020 01:48:33 
+[2020-02-11 01:52:41 : INFO] - 95 
+[2020-02-11 01:52:43 : INFO] - Backing up the original image - 2020/02/phonak-compilot-air-II-wireless-accessory-1-updraft-pre-smush-original.jpg 
+[2020-02-11 01:52:43 : INFO] - Re_Smush_It_Task with attachment ID : 262, autocreated on : February 11, 2020 01:48:33 
+[2020-02-11 01:52:43 : INFO] - 95 
+[2020-02-11 01:52:43 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/02/phonak-compilot-air-II-wireless-accessory-1.jpg.The file was compressed from 9.13 KB to 9.13 KB saving 0.06 percent using WP-Optimize 
+[2020-02-11 01:52:43 : INFO] - Completed processing task with ID : 45, and type 'smush' 
+[2020-02-11 01:52:43 : INFO] - Processing task with ID : 44, and type 'smush' 
+[2020-02-11 01:52:43 : INFO] - Re_Smush_It_Task with attachment ID : 260, autocreated on : February 11, 2020 01:47:18 
+[2020-02-11 01:52:43 : INFO] - 95 
+[2020-02-11 01:52:45 : INFO] - Backing up the original image - 2020/02/phonak-compilot-air-II-wireless-accessory-updraft-pre-smush-original.jpg 
+[2020-02-11 01:52:45 : INFO] - Re_Smush_It_Task with attachment ID : 260, autocreated on : February 11, 2020 01:47:18 
+[2020-02-11 01:52:45 : INFO] - 95 
+[2020-02-11 01:52:45 : INFO] - Re_Smush_It_Task with attachment ID : 260, autocreated on : February 11, 2020 01:47:18 
+[2020-02-11 01:52:45 : INFO] - 95 
+[2020-02-11 01:52:46 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/02/phonak-compilot-air-II-wireless-accessory.jpg.The file was compressed from 19.26 KB to 19.26 KB saving 0 percent using WP-Optimize 
+[2020-02-11 01:52:46 : INFO] - Completed processing task with ID : 44, and type 'smush' 
+[2020-02-11 01:52:46 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-02-11 01:52:46 : INFO] - Semaphore (smush) unlocked 
+[2020-02-11 01:52:46 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2020-02-11 01:52:46 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-02-11 01:52:46 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2020-02-11 02:02:56 : INFO] - 
+ 
+[2020-02-11 02:02:56 : INFO] - Header for logs at time:  Tue, 11 Feb 2020 02:02:56 +0000 on http://localhost/testsite 
+[2020-02-11 02:02:56 : INFO] - WP: 5.3.2 
+[2020-02-11 02:02:56 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-02-11 02:02:56 : INFO] - MySQL: 5.7.26 
+[2020-02-11 02:02:56 : INFO] - WPLANG: en_CA 
+[2020-02-11 02:02:56 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-02-11 02:02:56 : INFO] - Outbound connections: N 
+[2020-02-11 02:02:56 : INFO] - safe_mode: 0 
+[2020-02-11 02:02:56 : INFO] - max_execution_time: 300 
+[2020-02-11 02:02:56 : INFO] - memory_limit: 1G (used: 8.8M | 2M) 
+[2020-02-11 02:02:56 : INFO] - multisite: N 
+[2020-02-11 02:02:56 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-11 02:02:56 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-11 11:50:33 : INFO] - Re_Smush_It_Task with attachment ID : 267, autocreated on : February 11, 2020 11:50:33 
+[2020-02-11 11:54:37 : INFO] - Re_Smush_It_Task with attachment ID : 268, autocreated on : February 11, 2020 11:54:37 
+[2020-02-11 11:56:27 : INFO] - 
+ 
+[2020-02-11 11:56:27 : INFO] - Header for logs at time:  Tue, 11 Feb 2020 11:56:27 +0000 on http://localhost/testsite 
+[2020-02-11 11:56:27 : INFO] - WP: 5.3.2 
+[2020-02-11 11:56:27 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-02-11 11:56:27 : INFO] - MySQL: 5.7.26 
+[2020-02-11 11:56:27 : INFO] - WPLANG: en_CA 
+[2020-02-11 11:56:27 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-02-11 11:56:27 : INFO] - Outbound connections: N 
+[2020-02-11 11:56:27 : INFO] - safe_mode: 0 
+[2020-02-11 11:56:27 : INFO] - max_execution_time: 300 
+[2020-02-11 11:56:27 : INFO] - memory_limit: 1G (used: 8.8M | 2M) 
+[2020-02-11 11:56:27 : INFO] - multisite: N 
+[2020-02-11 11:56:27 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-11 11:56:27 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2020-02-11 11:56:27 : INFO] - Set semaphore last lock (smush) time to 2020-02-11 11:56:27 
+[2020-02-11 11:56:27 : INFO] - Semaphore lock (smush) complete 
+[2020-02-11 11:56:27 : INFO] - Processing task with ID : 47, and type 'smush' 
+[2020-02-11 11:56:27 : INFO] - Re_Smush_It_Task with attachment ID : 268, autocreated on : February 11, 2020 11:54:37 
+[2020-02-11 11:56:27 : INFO] - 95 
+[2020-02-11 11:56:28 : INFO] - Backing up the original image - 2020/02/phonak-tv-connector-wireless-accessory-updraft-pre-smush-original.jpg 
+[2020-02-11 11:56:28 : INFO] - Re_Smush_It_Task with attachment ID : 268, autocreated on : February 11, 2020 11:54:37 
+[2020-02-11 11:56:28 : INFO] - 95 
+[2020-02-11 11:56:29 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/02/phonak-tv-connector-wireless-accessory.jpg.The file was compressed from 8.66 KB to 8.31 KB saving 4.02 percent using WP-Optimize 
+[2020-02-11 11:56:29 : INFO] - Completed processing task with ID : 47, and type 'smush' 
+[2020-02-11 11:56:29 : INFO] - Processing task with ID : 46, and type 'smush' 
+[2020-02-11 11:56:29 : INFO] - Re_Smush_It_Task with attachment ID : 267, autocreated on : February 11, 2020 11:50:33 
+[2020-02-11 11:56:29 : INFO] - 95 
+[2020-02-11 11:56:30 : INFO] - Backing up the original image - 2020/02/phonak-tvlink-II-wireless-accessory-updraft-pre-smush-original.jpg 
+[2020-02-11 11:56:30 : INFO] - Re_Smush_It_Task with attachment ID : 267, autocreated on : February 11, 2020 11:50:33 
+[2020-02-11 11:56:30 : INFO] - 95 
+[2020-02-11 11:56:31 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/02/phonak-tvlink-II-wireless-accessory.jpg.The file was compressed from 10.01 KB to 9.57 KB saving 4.42 percent using WP-Optimize 
+[2020-02-11 11:56:31 : INFO] - Completed processing task with ID : 46, and type 'smush' 
+[2020-02-11 11:56:31 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-02-11 11:56:31 : INFO] - Semaphore (smush) unlocked 
+[2020-02-11 11:56:31 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2020-02-11 11:56:31 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-02-11 11:56:31 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2020-02-11 12:00:05 : INFO] - Re_Smush_It_Task with attachment ID : 269, autocreated on : February 11, 2020 12:00:05 
+[2020-02-11 12:06:35 : INFO] - 
+ 
+[2020-02-11 12:06:35 : INFO] - Header for logs at time:  Tue, 11 Feb 2020 12:06:35 +0000 on http://localhost/testsite 
+[2020-02-11 12:06:35 : INFO] - WP: 5.3.2 
+[2020-02-11 12:06:35 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-02-11 12:06:35 : INFO] - MySQL: 5.7.26 
+[2020-02-11 12:06:35 : INFO] - WPLANG: en_CA 
+[2020-02-11 12:06:35 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-02-11 12:06:35 : INFO] - Outbound connections: N 
+[2020-02-11 12:06:35 : INFO] - safe_mode: 0 
+[2020-02-11 12:06:35 : INFO] - max_execution_time: 300 
+[2020-02-11 12:06:35 : INFO] - memory_limit: 1G (used: 8.8M | 2M) 
+[2020-02-11 12:06:35 : INFO] - multisite: N 
+[2020-02-11 12:06:35 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-11 12:06:35 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-02-11 12:06:35 : INFO] - Set semaphore last lock (smush) time to 2020-02-11 12:06:35 
+[2020-02-11 12:06:35 : INFO] - Semaphore lock (smush) complete 
+[2020-02-11 12:06:35 : INFO] - Processing task with ID : 48, and type 'smush' 
+[2020-02-11 12:06:35 : INFO] - Re_Smush_It_Task with attachment ID : 269, autocreated on : February 11, 2020 12:00:05 
+[2020-02-11 12:06:35 : INFO] - 95 
+[2020-02-11 12:06:36 : INFO] - Backing up the original image - 2020/02/phonak-tv-connector-wireless-accessory-1-updraft-pre-smush-original.jpg 
+[2020-02-11 12:06:36 : INFO] - Re_Smush_It_Task with attachment ID : 269, autocreated on : February 11, 2020 12:00:05 
+[2020-02-11 12:06:36 : INFO] - 95 
+[2020-02-11 12:06:38 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/02/phonak-tv-connector-wireless-accessory-1.jpg.The file was compressed from 7.36 KB to 6.97 KB saving 5.32 percent using WP-Optimize 
+[2020-02-11 12:06:38 : INFO] - Completed processing task with ID : 48, and type 'smush' 
+[2020-02-11 12:06:38 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-02-11 12:06:38 : INFO] - Semaphore (smush) unlocked 
+[2020-02-11 12:06:38 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-02-11 12:06:38 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-02-11 12:06:38 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-02-11 12:08:51 : INFO] - Re_Smush_It_Task with attachment ID : 272, autocreated on : February 11, 2020 12:08:51 
+[2020-02-11 12:16:36 : INFO] - 
+ 
+[2020-02-11 12:16:36 : INFO] - Header for logs at time:  Tue, 11 Feb 2020 12:16:36 +0000 on http://localhost/testsite 
+[2020-02-11 12:16:36 : INFO] - WP: 5.3.2 
+[2020-02-11 12:16:36 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-02-11 12:16:36 : INFO] - MySQL: 5.7.26 
+[2020-02-11 12:16:36 : INFO] - WPLANG: en_CA 
+[2020-02-11 12:16:36 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-02-11 12:16:36 : INFO] - Outbound connections: N 
+[2020-02-11 12:16:36 : INFO] - safe_mode: 0 
+[2020-02-11 12:16:36 : INFO] - max_execution_time: 300 
+[2020-02-11 12:16:36 : INFO] - memory_limit: 1G (used: 8.8M | 2M) 
+[2020-02-11 12:16:36 : INFO] - multisite: N 
+[2020-02-11 12:16:36 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-11 12:16:36 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-02-11 12:16:36 : INFO] - Set semaphore last lock (smush) time to 2020-02-11 12:16:36 
+[2020-02-11 12:16:36 : INFO] - Semaphore lock (smush) complete 
+[2020-02-11 12:16:36 : INFO] - Processing task with ID : 49, and type 'smush' 
+[2020-02-11 12:16:36 : INFO] - Re_Smush_It_Task with attachment ID : 272, autocreated on : February 11, 2020 12:08:51 
+[2020-02-11 12:16:36 : INFO] - 95 
+[2020-02-11 12:16:38 : INFO] - Backing up the original image - 2020/02/phonak-pilot-one-ii-wireless-accessory-updraft-pre-smush-original.jpg 
+[2020-02-11 12:16:38 : INFO] - Re_Smush_It_Task with attachment ID : 272, autocreated on : February 11, 2020 12:08:51 
+[2020-02-11 12:16:38 : INFO] - 95 
+[2020-02-11 12:16:39 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/02/phonak-pilot-one-ii-wireless-accessory.jpg.The file was compressed from 8.39 KB to 7.80 KB saving 7.09 percent using WP-Optimize 
+[2020-02-11 12:16:39 : INFO] - Completed processing task with ID : 49, and type 'smush' 
+[2020-02-11 12:16:39 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-02-11 12:16:39 : INFO] - Semaphore (smush) unlocked 
+[2020-02-11 12:16:39 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-02-11 12:16:39 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-02-11 12:16:39 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-02-11 12:23:22 : INFO] - Could not find file for image: ID=131, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-ear_wide-1.jpg 
+[2020-02-11 12:23:22 : INFO] - Could not find file for image: ID=122, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-hearing-aid-logo-5.png 
+[2020-02-11 12:23:22 : INFO] - Could not find file for image: ID=120, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-favicon-3.png 
+[2020-02-11 12:23:22 : INFO] - Could not find file for image: ID=118, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-hearing-aid-logo-4.png 
+[2020-02-11 12:23:22 : INFO] - Could not find file for image: ID=115, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-hearing-aid-logo-3.png 
+[2020-02-11 12:23:22 : INFO] - Could not find file for image: ID=28, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-hearing-aid-logo-2.png 
+[2020-02-11 12:23:22 : INFO] - Could not find file for image: ID=26, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-hearing-aid-logo-1.png 
+[2020-02-11 12:23:22 : INFO] - Could not find file for image: ID=24, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-ear_wide.jpg 
+[2020-02-11 12:23:22 : INFO] - Could not find file for image: ID=23, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-favicon-1.png 
+[2020-02-11 12:27:35 : INFO] - 
+ 
+[2020-02-11 12:27:35 : INFO] - Header for logs at time:  Tue, 11 Feb 2020 12:27:35 +0000 on http://localhost/testsite 
+[2020-02-11 12:27:35 : INFO] - WP: 5.3.2 
+[2020-02-11 12:27:35 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-02-11 12:27:35 : INFO] - MySQL: 5.7.26 
+[2020-02-11 12:27:35 : INFO] - WPLANG: en_CA 
+[2020-02-11 12:27:35 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-02-11 12:27:35 : INFO] - Outbound connections: N 
+[2020-02-11 12:27:35 : INFO] - safe_mode: 0 
+[2020-02-11 12:27:35 : INFO] - max_execution_time: 300 
+[2020-02-11 12:27:35 : INFO] - memory_limit: 1G (used: 8.8M | 8M) 
+[2020-02-11 12:27:35 : INFO] - multisite: N 
+[2020-02-11 12:27:35 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-11 12:27:35 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-04-16 11:39:10 : INFO] - Re_Smush_It_Task with attachment ID : 402, autocreated on : April 16, 2020 11:39:10 
+[2020-04-16 11:44:19 : INFO] - 
+ 
+[2020-04-16 11:44:19 : INFO] - Header for logs at time:  Thu, 16 Apr 2020 11:44:19 +0000 on http://localhost/testsite 
+[2020-04-16 11:44:19 : INFO] - WP: 5.4 
+[2020-04-16 11:44:19 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-16 11:44:19 : INFO] - MySQL: 5.7.26 
+[2020-04-16 11:44:19 : INFO] - WPLANG: en_CA 
+[2020-04-16 11:44:19 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-16 11:44:19 : INFO] - Outbound connections: N 
+[2020-04-16 11:44:19 : INFO] - safe_mode: 0 
+[2020-04-16 11:44:19 : INFO] - max_execution_time: 300 
+[2020-04-16 11:44:19 : INFO] - memory_limit: 1G (used: 10M | 2M) 
+[2020-04-16 11:44:19 : INFO] - multisite: N 
+[2020-04-16 11:44:19 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-16 11:44:19 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-04-16 11:44:19 : INFO] - Set semaphore last lock (smush) time to 2020-04-16 11:44:19 
+[2020-04-16 11:44:19 : INFO] - Semaphore lock (smush) complete 
+[2020-04-16 11:44:19 : INFO] - Processing task with ID : 50, and type 'smush' 
+[2020-04-16 11:44:19 : INFO] - Re_Smush_It_Task with attachment ID : 402, autocreated on : April 16, 2020 11:39:10 
+[2020-04-16 11:44:19 : INFO] - 95 
+[2020-04-16 11:44:20 : INFO] - Backing up the original image - 2020/04/captiview-closed-captioning-device-updraft-pre-smush-original.jpg 
+[2020-04-16 11:44:20 : INFO] - Re_Smush_It_Task with attachment ID : 402, autocreated on : April 16, 2020 11:39:10 
+[2020-04-16 11:44:20 : INFO] - 95 
+[2020-04-16 11:44:21 : INFO] - Re_Smush_It_Task with attachment ID : 402, autocreated on : April 16, 2020 11:39:10 
+[2020-04-16 11:44:21 : INFO] - 95 
+[2020-04-16 11:44:22 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/04/captiview-closed-captioning-device.jpg.The file was compressed from 9.83 KB to 9.83 KB saving 0.04 percent using WP-Optimize 
+[2020-04-16 11:44:22 : INFO] - Completed processing task with ID : 50, and type 'smush' 
+[2020-04-16 11:44:22 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-04-16 11:44:22 : INFO] - Semaphore (smush) unlocked 
+[2020-04-16 11:44:22 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-04-16 11:44:22 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-04-16 11:44:22 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-04-16 11:44:26 : INFO] - Re_Smush_It_Task with attachment ID : 403, autocreated on : April 16, 2020 11:44:26 
+[2020-04-16 11:53:14 : INFO] - Re_Smush_It_Task with attachment ID : 405, autocreated on : April 16, 2020 11:53:14 
+[2020-04-16 11:54:28 : INFO] - 
+ 
+[2020-04-16 11:54:28 : INFO] - Header for logs at time:  Thu, 16 Apr 2020 11:54:28 +0000 on http://localhost/testsite 
+[2020-04-16 11:54:28 : INFO] - WP: 5.4 
+[2020-04-16 11:54:28 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-16 11:54:28 : INFO] - MySQL: 5.7.26 
+[2020-04-16 11:54:28 : INFO] - WPLANG: en_CA 
+[2020-04-16 11:54:28 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-16 11:54:28 : INFO] - Outbound connections: N 
+[2020-04-16 11:54:28 : INFO] - safe_mode: 0 
+[2020-04-16 11:54:28 : INFO] - max_execution_time: 300 
+[2020-04-16 11:54:28 : INFO] - memory_limit: 1G (used: 10M | 2M) 
+[2020-04-16 11:54:28 : INFO] - multisite: N 
+[2020-04-16 11:54:28 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-16 11:54:28 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2020-04-16 11:54:28 : INFO] - Set semaphore last lock (smush) time to 2020-04-16 11:54:28 
+[2020-04-16 11:54:28 : INFO] - Semaphore lock (smush) complete 
+[2020-04-16 11:54:28 : INFO] - Processing task with ID : 52, and type 'smush' 
+[2020-04-16 11:54:28 : INFO] - Re_Smush_It_Task with attachment ID : 405, autocreated on : April 16, 2020 11:53:14 
+[2020-04-16 11:54:28 : INFO] - 95 
+[2020-04-16 11:54:30 : INFO] - Backing up the original image - 2020/04/captiview-closed-captioning-device-in-use-during-movie-updraft-pre-smush-original.jpg 
+[2020-04-16 11:54:30 : INFO] - Re_Smush_It_Task with attachment ID : 405, autocreated on : April 16, 2020 11:53:14 
+[2020-04-16 11:54:30 : INFO] - 95 
+[2020-04-16 11:54:31 : INFO] - Re_Smush_It_Task with attachment ID : 405, autocreated on : April 16, 2020 11:53:14 
+[2020-04-16 11:54:31 : INFO] - 95 
+[2020-04-16 11:54:32 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/04/captiview-closed-captioning-device-in-use-during-movie.jpg.The file was compressed from 13.73 KB to 13.73 KB saving 0 percent using WP-Optimize 
+[2020-04-16 11:54:32 : INFO] - Completed processing task with ID : 52, and type 'smush' 
+[2020-04-16 11:54:32 : INFO] - Processing task with ID : 51, and type 'smush' 
+[2020-04-16 11:54:32 : INFO] - Re_Smush_It_Task with attachment ID : 403, autocreated on : April 16, 2020 11:44:26 
+[2020-04-16 11:54:32 : INFO] - 95 
+[2020-04-16 11:54:33 : INFO] - Backing up the original image - 2020/04/captiview-closed-captioning-device-1-updraft-pre-smush-original.jpg 
+[2020-04-16 11:54:33 : INFO] - Re_Smush_It_Task with attachment ID : 403, autocreated on : April 16, 2020 11:44:26 
+[2020-04-16 11:54:33 : INFO] - 95 
+[2020-04-16 11:54:34 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/04/captiview-closed-captioning-device-1.jpg.The file was compressed from 19.69 KB to 17.85 KB saving 9.33 percent using WP-Optimize 
+[2020-04-16 11:54:34 : INFO] - Completed processing task with ID : 51, and type 'smush' 
+[2020-04-16 11:54:34 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-04-16 11:54:34 : INFO] - Semaphore (smush) unlocked 
+[2020-04-16 11:54:34 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2020-04-16 11:54:34 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-04-16 11:54:34 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2020-04-16 11:59:05 : INFO] - Re_Smush_It_Task with attachment ID : 407, autocreated on : April 16, 2020 11:59:05 
+[2020-04-16 12:00:00 : INFO] - Re_Smush_It_Task with attachment ID : 408, autocreated on : April 16, 2020 12:00:00 
+[2020-04-16 12:04:43 : INFO] - 
+ 
+[2020-04-16 12:04:43 : INFO] - Header for logs at time:  Thu, 16 Apr 2020 12:04:43 +0000 on http://localhost/testsite 
+[2020-04-16 12:04:43 : INFO] - WP: 5.4 
+[2020-04-16 12:04:43 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-16 12:04:43 : INFO] - MySQL: 5.7.26 
+[2020-04-16 12:04:43 : INFO] - WPLANG: en_CA 
+[2020-04-16 12:04:43 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-16 12:04:43 : INFO] - Outbound connections: N 
+[2020-04-16 12:04:43 : INFO] - safe_mode: 0 
+[2020-04-16 12:04:43 : INFO] - max_execution_time: 300 
+[2020-04-16 12:04:43 : INFO] - memory_limit: 1G (used: 10M | 2M) 
+[2020-04-16 12:04:43 : INFO] - multisite: N 
+[2020-04-16 12:04:43 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-16 12:04:43 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2020-04-16 12:04:43 : INFO] - Set semaphore last lock (smush) time to 2020-04-16 12:04:43 
+[2020-04-16 12:04:43 : INFO] - Semaphore lock (smush) complete 
+[2020-04-16 12:04:43 : INFO] - Processing task with ID : 54, and type 'smush' 
+[2020-04-16 12:04:43 : INFO] - Re_Smush_It_Task with attachment ID : 408, autocreated on : April 16, 2020 12:00:00 
+[2020-04-16 12:04:43 : INFO] - 95 
+[2020-04-16 12:04:44 : INFO] - Backing up the original image - 2020/04/closed-captioning-device-close-up-1-updraft-pre-smush-original.jpg 
+[2020-04-16 12:04:44 : INFO] - Re_Smush_It_Task with attachment ID : 408, autocreated on : April 16, 2020 12:00:00 
+[2020-04-16 12:04:44 : INFO] - 95 
+[2020-04-16 12:04:46 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/04/closed-captioning-device-close-up-1.jpg.The file was compressed from 17.21 KB to 16.61 KB saving 3.48 percent using WP-Optimize 
+[2020-04-16 12:04:46 : INFO] - Completed processing task with ID : 54, and type 'smush' 
+[2020-04-16 12:04:46 : INFO] - Processing task with ID : 53, and type 'smush' 
+[2020-04-16 12:04:46 : INFO] - Re_Smush_It_Task with attachment ID : 407, autocreated on : April 16, 2020 11:59:05 
+[2020-04-16 12:04:46 : INFO] - 95 
+[2020-04-16 12:04:47 : INFO] - Backing up the original image - 2020/04/closed-captioning-device-close-up-updraft-pre-smush-original.jpg 
+[2020-04-16 12:04:47 : INFO] - Re_Smush_It_Task with attachment ID : 407, autocreated on : April 16, 2020 11:59:05 
+[2020-04-16 12:04:47 : INFO] - 95 
+[2020-04-16 12:04:48 : INFO] - Re_Smush_It_Task with attachment ID : 407, autocreated on : April 16, 2020 11:59:05 
+[2020-04-16 12:04:48 : INFO] - 95 
+[2020-04-16 12:04:49 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/04/closed-captioning-device-close-up.jpg.The file was compressed from 62.58 KB to 61.43 KB saving 1.83 percent using WP-Optimize 
+[2020-04-16 12:04:49 : INFO] - Completed processing task with ID : 53, and type 'smush' 
+[2020-04-16 12:04:49 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-04-16 12:04:49 : INFO] - Semaphore (smush) unlocked 
+[2020-04-16 12:04:49 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2020-04-16 12:04:49 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-04-16 12:04:49 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2020-04-17 11:01:17 : INFO] - 
+ 
+[2020-04-17 11:01:17 : INFO] - Header for logs at time:  Fri, 17 Apr 2020 11:01:17 +0000 on http://localhost/testsite 
+[2020-04-17 11:01:17 : INFO] - WP: 5.4 
+[2020-04-17 11:01:17 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-17 11:01:17 : INFO] - MySQL: 5.7.26 
+[2020-04-17 11:01:17 : INFO] - WPLANG: en_CA 
+[2020-04-17 11:01:17 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-17 11:01:17 : INFO] - Outbound connections: N 
+[2020-04-17 11:01:17 : INFO] - safe_mode: 0 
+[2020-04-17 11:01:17 : INFO] - max_execution_time: 300 
+[2020-04-17 11:01:17 : INFO] - memory_limit: 1G (used: 10.2M | 12M) 
+[2020-04-17 11:01:17 : INFO] - multisite: N 
+[2020-04-17 11:01:17 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-17 11:01:17 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-04-17 11:05:45 : INFO] - Re_Smush_It_Task with attachment ID : 412, autocreated on : April 17, 2020 11:05:45 
+[2020-04-17 11:11:23 : INFO] - 
+ 
+[2020-04-17 11:11:23 : INFO] - Header for logs at time:  Fri, 17 Apr 2020 11:11:23 +0000 on http://localhost/testsite 
+[2020-04-17 11:11:23 : INFO] - WP: 5.4 
+[2020-04-17 11:11:23 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-17 11:11:23 : INFO] - MySQL: 5.7.26 
+[2020-04-17 11:11:23 : INFO] - WPLANG: en_CA 
+[2020-04-17 11:11:23 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-17 11:11:23 : INFO] - Outbound connections: N 
+[2020-04-17 11:11:23 : INFO] - safe_mode: 0 
+[2020-04-17 11:11:23 : INFO] - max_execution_time: 300 
+[2020-04-17 11:11:23 : INFO] - memory_limit: 1G (used: 10M | 2M) 
+[2020-04-17 11:11:23 : INFO] - multisite: N 
+[2020-04-17 11:11:23 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-17 11:11:23 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-04-17 11:11:23 : INFO] - Set semaphore last lock (smush) time to 2020-04-17 11:11:23 
+[2020-04-17 11:11:23 : INFO] - Semaphore lock (smush) complete 
+[2020-04-17 11:11:23 : INFO] - Processing task with ID : 55, and type 'smush' 
+[2020-04-17 11:11:23 : INFO] - Re_Smush_It_Task with attachment ID : 412, autocreated on : April 17, 2020 11:05:45 
+[2020-04-17 11:11:23 : INFO] - 95 
+[2020-04-17 11:11:25 : INFO] - Backing up the original image - 2020/04/closed-captioning-device-close-up-2-updraft-pre-smush-original.jpg 
+[2020-04-17 11:11:25 : INFO] - Re_Smush_It_Task with attachment ID : 412, autocreated on : April 17, 2020 11:05:45 
+[2020-04-17 11:11:25 : INFO] - 95 
+[2020-04-17 11:11:26 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/04/closed-captioning-device-close-up-2.jpg.The file was compressed from 18.19 KB to 17.45 KB saving 4.09 percent using WP-Optimize 
+[2020-04-17 11:11:26 : INFO] - Completed processing task with ID : 55, and type 'smush' 
+[2020-04-17 11:11:26 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-04-17 11:11:26 : INFO] - Semaphore (smush) unlocked 
+[2020-04-17 11:11:26 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-04-17 11:11:26 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-04-17 11:11:26 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-04-17 11:17:58 : INFO] - Re_Smush_It_Task with attachment ID : 413, autocreated on : April 17, 2020 11:17:58 
+[2020-04-17 11:22:14 : INFO] - 
+ 
+[2020-04-17 11:22:14 : INFO] - Header for logs at time:  Fri, 17 Apr 2020 11:22:14 +0000 on http://localhost/testsite 
+[2020-04-17 11:22:14 : INFO] - WP: 5.4 
+[2020-04-17 11:22:14 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-17 11:22:14 : INFO] - MySQL: 5.7.26 
+[2020-04-17 11:22:14 : INFO] - WPLANG: en_CA 
+[2020-04-17 11:22:14 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-17 11:22:14 : INFO] - Outbound connections: N 
+[2020-04-17 11:22:14 : INFO] - safe_mode: 0 
+[2020-04-17 11:22:14 : INFO] - max_execution_time: 300 
+[2020-04-17 11:22:14 : INFO] - memory_limit: 1G (used: 10M | 6M) 
+[2020-04-17 11:22:14 : INFO] - multisite: N 
+[2020-04-17 11:22:14 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-17 11:22:14 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-04-17 11:22:14 : INFO] - Set semaphore last lock (smush) time to 2020-04-17 11:22:14 
+[2020-04-17 11:22:14 : INFO] - Semaphore lock (smush) complete 
+[2020-04-17 11:22:14 : INFO] - Processing task with ID : 56, and type 'smush' 
+[2020-04-17 11:22:14 : INFO] - Re_Smush_It_Task with attachment ID : 413, autocreated on : April 17, 2020 11:17:58 
+[2020-04-17 11:22:14 : INFO] - 95 
+[2020-04-17 11:22:16 : INFO] - Backing up the original image - 2020/04/captiview-closed-captioning-device-setup-updraft-pre-smush-original.jpg 
+[2020-04-17 11:22:16 : INFO] - Re_Smush_It_Task with attachment ID : 413, autocreated on : April 17, 2020 11:17:58 
+[2020-04-17 11:22:16 : INFO] - 95 
+[2020-04-17 11:22:17 : INFO] - Re_Smush_It_Task with attachment ID : 413, autocreated on : April 17, 2020 11:17:58 
+[2020-04-17 11:22:17 : INFO] - 95 
+[2020-04-17 11:22:18 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/04/captiview-closed-captioning-device-setup.jpg.The file was compressed from 28.64 KB to 26.84 KB saving 6.28 percent using WP-Optimize 
+[2020-04-17 11:22:18 : INFO] - Completed processing task with ID : 56, and type 'smush' 
+[2020-04-17 11:22:18 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-04-17 11:22:18 : INFO] - Semaphore (smush) unlocked 
+[2020-04-17 11:22:18 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-04-17 11:22:18 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-04-17 11:22:18 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-04-17 11:22:23 : INFO] - Re_Smush_It_Task with attachment ID : 414, autocreated on : April 17, 2020 11:22:23 
+[2020-04-17 11:26:42 : INFO] - Re_Smush_It_Task with attachment ID : 415, autocreated on : April 17, 2020 11:26:42 
+[2020-04-17 11:32:14 : INFO] - 
+ 
+[2020-04-17 11:32:14 : INFO] - Header for logs at time:  Fri, 17 Apr 2020 11:32:14 +0000 on http://localhost/testsite 
+[2020-04-17 11:32:14 : INFO] - WP: 5.4 
+[2020-04-17 11:32:14 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-17 11:32:14 : INFO] - MySQL: 5.7.26 
+[2020-04-17 11:32:14 : INFO] - WPLANG: en_CA 
+[2020-04-17 11:32:14 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-17 11:32:14 : INFO] - Outbound connections: N 
+[2020-04-17 11:32:14 : INFO] - safe_mode: 0 
+[2020-04-17 11:32:14 : INFO] - max_execution_time: 300 
+[2020-04-17 11:32:14 : INFO] - memory_limit: 1G (used: 10M | 2M) 
+[2020-04-17 11:32:14 : INFO] - multisite: N 
+[2020-04-17 11:32:14 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-17 11:32:14 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2020-04-17 11:32:14 : INFO] - Set semaphore last lock (smush) time to 2020-04-17 11:32:14 
+[2020-04-17 11:32:14 : INFO] - Semaphore lock (smush) complete 
+[2020-04-17 11:32:14 : INFO] - Processing task with ID : 58, and type 'smush' 
+[2020-04-17 11:32:14 : INFO] - Re_Smush_It_Task with attachment ID : 415, autocreated on : April 17, 2020 11:26:42 
+[2020-04-17 11:32:14 : INFO] - 95 
+[2020-04-17 11:32:17 : INFO] - Backing up the original image - 2020/04/captiview-closed-captioning-device-close-up-updraft-pre-smush-original.jpg 
+[2020-04-17 11:32:17 : INFO] - Re_Smush_It_Task with attachment ID : 415, autocreated on : April 17, 2020 11:26:42 
+[2020-04-17 11:32:17 : INFO] - 95 
+[2020-04-17 11:32:17 : INFO] - Re_Smush_It_Task with attachment ID : 415, autocreated on : April 17, 2020 11:26:42 
+[2020-04-17 11:32:17 : INFO] - 95 
+[2020-04-17 11:32:18 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/04/captiview-closed-captioning-device-close-up.jpg.The file was compressed from 27.77 KB to 26.27 KB saving 5.4 percent using WP-Optimize 
+[2020-04-17 11:32:18 : INFO] - Completed processing task with ID : 58, and type 'smush' 
+[2020-04-17 11:32:18 : INFO] - Processing task with ID : 57, and type 'smush' 
+[2020-04-17 11:32:18 : INFO] - Re_Smush_It_Task with attachment ID : 414, autocreated on : April 17, 2020 11:22:23 
+[2020-04-17 11:32:18 : INFO] - 95 
+[2020-04-17 11:32:19 : INFO] - Backing up the original image - 2020/04/captiview-bottom-buttons-device-setup-updraft-pre-smush-original.jpg 
+[2020-04-17 11:32:19 : INFO] - Re_Smush_It_Task with attachment ID : 414, autocreated on : April 17, 2020 11:22:23 
+[2020-04-17 11:32:19 : INFO] - 95 
+[2020-04-17 11:32:20 : INFO] - Re_Smush_It_Task with attachment ID : 414, autocreated on : April 17, 2020 11:22:23 
+[2020-04-17 11:32:20 : INFO] - 95 
+[2020-04-17 11:32:20 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/04/captiview-bottom-buttons-device-setup.jpg.The file was compressed from 31.26 KB to 29.00 KB saving 7.23 percent using WP-Optimize 
+[2020-04-17 11:32:20 : INFO] - Completed processing task with ID : 57, and type 'smush' 
+[2020-04-17 11:32:20 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-04-17 11:32:20 : INFO] - Semaphore (smush) unlocked 
+[2020-04-17 11:32:20 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2020-04-17 11:32:20 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-04-17 11:32:20 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2020-04-17 11:35:58 : INFO] - Re_Smush_It_Task with attachment ID : 416, autocreated on : April 17, 2020 11:35:58 
+[2020-04-17 11:42:15 : INFO] - 
+ 
+[2020-04-17 11:42:15 : INFO] - Header for logs at time:  Fri, 17 Apr 2020 11:42:15 +0000 on http://localhost/testsite 
+[2020-04-17 11:42:15 : INFO] - WP: 5.4 
+[2020-04-17 11:42:15 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-17 11:42:15 : INFO] - MySQL: 5.7.26 
+[2020-04-17 11:42:15 : INFO] - WPLANG: en_CA 
+[2020-04-17 11:42:15 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-17 11:42:15 : INFO] - Outbound connections: N 
+[2020-04-17 11:42:15 : INFO] - safe_mode: 0 
+[2020-04-17 11:42:15 : INFO] - max_execution_time: 300 
+[2020-04-17 11:42:15 : INFO] - memory_limit: 1G (used: 10M | 2M) 
+[2020-04-17 11:42:15 : INFO] - multisite: N 
+[2020-04-17 11:42:15 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-17 11:42:15 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-04-17 11:42:15 : INFO] - Set semaphore last lock (smush) time to 2020-04-17 11:42:15 
+[2020-04-17 11:42:15 : INFO] - Semaphore lock (smush) complete 
+[2020-04-17 11:42:15 : INFO] - Processing task with ID : 59, and type 'smush' 
+[2020-04-17 11:42:15 : INFO] - Re_Smush_It_Task with attachment ID : 416, autocreated on : April 17, 2020 11:35:58 
+[2020-04-17 11:42:15 : INFO] - 95 
+[2020-04-17 11:42:16 : INFO] - Backing up the original image - 2020/04/captiview-closed-captioning-device-connecting-updraft-pre-smush-original.jpg 
+[2020-04-17 11:42:16 : INFO] - Re_Smush_It_Task with attachment ID : 416, autocreated on : April 17, 2020 11:35:58 
+[2020-04-17 11:42:16 : INFO] - 95 
+[2020-04-17 11:42:17 : INFO] - Re_Smush_It_Task with attachment ID : 416, autocreated on : April 17, 2020 11:35:58 
+[2020-04-17 11:42:17 : INFO] - 95 
+[2020-04-17 11:42:18 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/04/captiview-closed-captioning-device-connecting.jpg.The file was compressed from 13.44 KB to 13.09 KB saving 2.61 percent using WP-Optimize 
+[2020-04-17 11:42:18 : INFO] - Completed processing task with ID : 59, and type 'smush' 
+[2020-04-17 11:42:18 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-04-17 11:42:18 : INFO] - Semaphore (smush) unlocked 
+[2020-04-17 11:42:18 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-04-17 11:42:18 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-04-17 11:42:18 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-04-17 11:52:15 : INFO] - 
+ 
+[2020-04-17 11:52:15 : INFO] - Header for logs at time:  Fri, 17 Apr 2020 11:52:15 +0000 on http://localhost/testsite 
+[2020-04-17 11:52:15 : INFO] - WP: 5.4 
+[2020-04-17 11:52:15 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-17 11:52:15 : INFO] - MySQL: 5.7.26 
+[2020-04-17 11:52:15 : INFO] - WPLANG: en_CA 
+[2020-04-17 11:52:15 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-17 11:52:15 : INFO] - Outbound connections: N 
+[2020-04-17 11:52:15 : INFO] - safe_mode: 0 
+[2020-04-17 11:52:15 : INFO] - max_execution_time: 300 
+[2020-04-17 11:52:15 : INFO] - memory_limit: 1G (used: 10M | 2M) 
+[2020-04-17 11:52:15 : INFO] - multisite: N 
+[2020-04-17 11:52:15 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-17 11:52:15 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-04-17 11:56:09 : INFO] - Re_Smush_It_Task with attachment ID : 423, autocreated on : April 17, 2020 11:56:09 
+[2020-04-17 11:56:41 : INFO] - Re_Smush_It_Task with attachment ID : 424, autocreated on : April 17, 2020 11:56:41 
+[2020-04-17 12:01:16 : INFO] - 
+ 
+[2020-04-17 12:01:16 : INFO] - Header for logs at time:  Fri, 17 Apr 2020 12:01:16 +0000 on http://localhost/testsite 
+[2020-04-17 12:01:16 : INFO] - WP: 5.4 
+[2020-04-17 12:01:16 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-17 12:01:16 : INFO] - MySQL: 5.7.26 
+[2020-04-17 12:01:16 : INFO] - WPLANG: en_CA 
+[2020-04-17 12:01:16 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-17 12:01:16 : INFO] - Outbound connections: N 
+[2020-04-17 12:01:16 : INFO] - safe_mode: 0 
+[2020-04-17 12:01:16 : INFO] - max_execution_time: 300 
+[2020-04-17 12:01:16 : INFO] - memory_limit: 1G (used: 10M | 2M) 
+[2020-04-17 12:01:16 : INFO] - multisite: N 
+[2020-04-17 12:01:16 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-17 12:01:16 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2020-04-17 12:01:16 : INFO] - Set semaphore last lock (smush) time to 2020-04-17 12:01:16 
+[2020-04-17 12:01:16 : INFO] - Semaphore lock (smush) complete 
+[2020-04-17 12:01:16 : INFO] - Processing task with ID : 61, and type 'smush' 
+[2020-04-17 12:01:16 : INFO] - Re_Smush_It_Task with attachment ID : 424, autocreated on : April 17, 2020 11:56:41 
+[2020-04-17 12:01:16 : INFO] - 95 
+[2020-04-17 12:01:18 : INFO] - Backing up the original image - 2020/04/digitally-compatible-assistive-listening-device-1-updraft-pre-smush-original.jpg 
+[2020-04-17 12:01:18 : INFO] - Re_Smush_It_Task with attachment ID : 424, autocreated on : April 17, 2020 11:56:41 
+[2020-04-17 12:01:18 : INFO] - 95 
+[2020-04-17 12:01:19 : INFO] - Re_Smush_It_Task with attachment ID : 424, autocreated on : April 17, 2020 11:56:41 
+[2020-04-17 12:01:19 : INFO] - 95 
+[2020-04-17 12:01:20 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/04/digitally-compatible-assistive-listening-device-1.jpg.The file was compressed from 20.02 KB to 19.94 KB saving 0.42 percent using WP-Optimize 
+[2020-04-17 12:01:20 : INFO] - Completed processing task with ID : 61, and type 'smush' 
+[2020-04-17 12:01:20 : INFO] - Processing task with ID : 60, and type 'smush' 
+[2020-04-17 12:01:20 : INFO] - Re_Smush_It_Task with attachment ID : 423, autocreated on : April 17, 2020 11:56:09 
+[2020-04-17 12:01:20 : INFO] - 95 
+[2020-04-17 12:01:21 : INFO] - Backing up the original image - 2020/04/digitally-compatible-assistive-listening-device-updraft-pre-smush-original.jpg 
+[2020-04-17 12:01:21 : INFO] - Re_Smush_It_Task with attachment ID : 423, autocreated on : April 17, 2020 11:56:09 
+[2020-04-17 12:01:21 : INFO] - 95 
+[2020-04-17 12:01:22 : INFO] - Re_Smush_It_Task with attachment ID : 423, autocreated on : April 17, 2020 11:56:09 
+[2020-04-17 12:01:22 : INFO] - 95 
+[2020-04-17 12:01:22 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/04/digitally-compatible-assistive-listening-device.jpg.The file was compressed from 20.02 KB to 19.94 KB saving 0.42 percent using WP-Optimize 
+[2020-04-17 12:01:22 : INFO] - Completed processing task with ID : 60, and type 'smush' 
+[2020-04-17 12:01:22 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-04-17 12:01:22 : INFO] - Semaphore (smush) unlocked 
+[2020-04-17 12:01:22 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2020-04-17 12:01:22 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-04-17 12:01:22 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2020-04-17 12:11:16 : INFO] - 
+ 
+[2020-04-17 12:11:16 : INFO] - Header for logs at time:  Fri, 17 Apr 2020 12:11:16 +0000 on http://localhost/testsite 
+[2020-04-17 12:11:16 : INFO] - WP: 5.4 
+[2020-04-17 12:11:16 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-17 12:11:16 : INFO] - MySQL: 5.7.26 
+[2020-04-17 12:11:16 : INFO] - WPLANG: en_CA 
+[2020-04-17 12:11:16 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-17 12:11:16 : INFO] - Outbound connections: N 
+[2020-04-17 12:11:16 : INFO] - safe_mode: 0 
+[2020-04-17 12:11:16 : INFO] - max_execution_time: 300 
+[2020-04-17 12:11:16 : INFO] - memory_limit: 1G (used: 10M | 2M) 
+[2020-04-17 12:11:16 : INFO] - multisite: N 
+[2020-04-17 12:11:16 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-17 12:11:16 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-04-18 11:15:07 : INFO] - Re_Smush_It_Task with attachment ID : 428, autocreated on : April 18, 2020 11:15:07 
+[2020-04-18 11:21:21 : INFO] - 
+ 
+[2020-04-18 11:21:21 : INFO] - Header for logs at time:  Sat, 18 Apr 2020 11:21:21 +0000 on http://localhost/testsite 
+[2020-04-18 11:21:21 : INFO] - WP: 5.4 
+[2020-04-18 11:21:21 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-18 11:21:21 : INFO] - MySQL: 5.7.26 
+[2020-04-18 11:21:21 : INFO] - WPLANG: en_CA 
+[2020-04-18 11:21:21 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-18 11:21:21 : INFO] - Outbound connections: N 
+[2020-04-18 11:21:21 : INFO] - safe_mode: 0 
+[2020-04-18 11:21:21 : INFO] - max_execution_time: 300 
+[2020-04-18 11:21:21 : INFO] - memory_limit: 1G (used: 9.9M | 2M) 
+[2020-04-18 11:21:21 : INFO] - multisite: N 
+[2020-04-18 11:21:21 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-18 11:21:21 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-04-18 11:21:21 : INFO] - Set semaphore last lock (smush) time to 2020-04-18 11:21:21 
+[2020-04-18 11:21:21 : INFO] - Semaphore lock (smush) complete 
+[2020-04-18 11:21:21 : INFO] - Processing task with ID : 62, and type 'smush' 
+[2020-04-18 11:21:21 : INFO] - Re_Smush_It_Task with attachment ID : 428, autocreated on : April 18, 2020 11:15:07 
+[2020-04-18 11:21:21 : INFO] - 95 
+[2020-04-18 11:21:22 : INFO] - Backing up the original image - 2020/04/rexton-smart-connect-bluetooth-neckloop-updraft-pre-smush-original.jpg 
+[2020-04-18 11:21:22 : INFO] - Re_Smush_It_Task with attachment ID : 428, autocreated on : April 18, 2020 11:15:07 
+[2020-04-18 11:21:22 : INFO] - 95 
+[2020-04-18 11:21:23 : INFO] - Re_Smush_It_Task with attachment ID : 428, autocreated on : April 18, 2020 11:15:07 
+[2020-04-18 11:21:23 : INFO] - 95 
+[2020-04-18 11:21:24 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/04/rexton-smart-connect-bluetooth-neckloop.jpg.The file was compressed from 36.91 KB to 33.38 KB saving 9.56 percent using WP-Optimize 
+[2020-04-18 11:21:24 : INFO] - Completed processing task with ID : 62, and type 'smush' 
+[2020-04-18 11:21:24 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-04-18 11:21:24 : INFO] - Semaphore (smush) unlocked 
+[2020-04-18 11:21:24 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-04-18 11:21:24 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-04-18 11:21:24 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-04-18 11:32:01 : INFO] - 
+ 
+[2020-04-18 11:32:01 : INFO] - Header for logs at time:  Sat, 18 Apr 2020 11:32:01 +0000 on http://localhost/testsite 
+[2020-04-18 11:32:01 : INFO] - WP: 5.4 
+[2020-04-18 11:32:01 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-18 11:32:01 : INFO] - MySQL: 5.7.26 
+[2020-04-18 11:32:01 : INFO] - WPLANG: en_CA 
+[2020-04-18 11:32:01 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-18 11:32:01 : INFO] - Outbound connections: N 
+[2020-04-18 11:32:01 : INFO] - safe_mode: 0 
+[2020-04-18 11:32:01 : INFO] - max_execution_time: 300 
+[2020-04-18 11:32:01 : INFO] - memory_limit: 1G (used: 9.9M | 2M) 
+[2020-04-18 11:32:01 : INFO] - multisite: N 
+[2020-04-18 11:32:01 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-18 11:32:01 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-04-18 11:42:55 : INFO] - Re_Smush_It_Task with attachment ID : 430, autocreated on : April 18, 2020 11:42:55 
+[2020-04-18 11:48:06 : INFO] - 
+ 
+[2020-04-18 11:48:07 : INFO] - Header for logs at time:  Sat, 18 Apr 2020 11:48:06 +0000 on http://localhost/testsite 
+[2020-04-18 11:48:07 : INFO] - WP: 5.4 
+[2020-04-18 11:48:07 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-18 11:48:07 : INFO] - MySQL: 5.7.26 
+[2020-04-18 11:48:07 : INFO] - WPLANG: en_CA 
+[2020-04-18 11:48:07 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-18 11:48:07 : INFO] - Outbound connections: N 
+[2020-04-18 11:48:07 : INFO] - safe_mode: 0 
+[2020-04-18 11:48:07 : INFO] - max_execution_time: 300 
+[2020-04-18 11:48:07 : INFO] - memory_limit: 1G (used: 9.9M | 2M) 
+[2020-04-18 11:48:07 : INFO] - multisite: N 
+[2020-04-18 11:48:07 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-18 11:48:07 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-04-18 11:48:07 : INFO] - Set semaphore last lock (smush) time to 2020-04-18 11:48:07 
+[2020-04-18 11:48:07 : INFO] - Semaphore lock (smush) complete 
+[2020-04-18 11:48:07 : INFO] - Processing task with ID : 63, and type 'smush' 
+[2020-04-18 11:48:07 : INFO] - Re_Smush_It_Task with attachment ID : 430, autocreated on : April 18, 2020 11:42:55 
+[2020-04-18 11:48:07 : INFO] - 95 
+[2020-04-18 11:48:08 : INFO] - Backing up the original image - 2020/04/phonak-compilot-II-wireless-accessory-updraft-pre-smush-original.jpg 
+[2020-04-18 11:48:08 : INFO] - Re_Smush_It_Task with attachment ID : 430, autocreated on : April 18, 2020 11:42:55 
+[2020-04-18 11:48:08 : INFO] - 95 
+[2020-04-18 11:48:09 : INFO] - Re_Smush_It_Task with attachment ID : 430, autocreated on : April 18, 2020 11:42:55 
+[2020-04-18 11:48:09 : INFO] - 95 
+[2020-04-18 11:48:10 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/04/phonak-compilot-II-wireless-accessory.jpg.The file was compressed from 24.43 KB to 21.68 KB saving 11.26 percent using WP-Optimize 
+[2020-04-18 11:48:10 : INFO] - Completed processing task with ID : 63, and type 'smush' 
+[2020-04-18 11:48:10 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-04-18 11:48:10 : INFO] - Semaphore (smush) unlocked 
+[2020-04-18 11:48:10 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-04-18 11:48:10 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-04-18 11:48:10 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-04-18 11:58:40 : INFO] - 
+ 
+[2020-04-18 11:58:40 : INFO] - Header for logs at time:  Sat, 18 Apr 2020 11:58:40 +0000 on http://localhost/testsite 
+[2020-04-18 11:58:40 : INFO] - WP: 5.4 
+[2020-04-18 11:58:40 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-18 11:58:41 : INFO] - MySQL: 5.7.26 
+[2020-04-18 11:58:41 : INFO] - WPLANG: en_CA 
+[2020-04-18 11:58:41 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-18 11:58:41 : INFO] - Outbound connections: N 
+[2020-04-18 11:58:41 : INFO] - safe_mode: 0 
+[2020-04-18 11:58:41 : INFO] - max_execution_time: 300 
+[2020-04-18 11:58:41 : INFO] - memory_limit: 1G (used: 9.9M | 2M) 
+[2020-04-18 11:58:41 : INFO] - multisite: N 
+[2020-04-18 11:58:41 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-18 11:58:41 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-04-18 14:37:39 : INFO] - Re_Smush_It_Task with attachment ID : 433, autocreated on : April 18, 2020 02:37:39 
+[2020-04-18 14:43:57 : INFO] - 
+ 
+[2020-04-18 14:43:57 : INFO] - Header for logs at time:  Sat, 18 Apr 2020 14:43:57 +0000 on http://localhost/testsite 
+[2020-04-18 14:43:57 : INFO] - WP: 5.4 
+[2020-04-18 14:43:57 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-18 14:43:57 : INFO] - MySQL: 5.7.26 
+[2020-04-18 14:43:57 : INFO] - WPLANG: en_CA 
+[2020-04-18 14:43:57 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-18 14:43:57 : INFO] - Outbound connections: N 
+[2020-04-18 14:43:57 : INFO] - safe_mode: 0 
+[2020-04-18 14:43:57 : INFO] - max_execution_time: 300 
+[2020-04-18 14:43:57 : INFO] - memory_limit: 1G (used: 9.9M | 2M) 
+[2020-04-18 14:43:57 : INFO] - multisite: N 
+[2020-04-18 14:43:57 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-18 14:43:57 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-04-18 14:43:57 : INFO] - Set semaphore last lock (smush) time to 2020-04-18 14:43:57 
+[2020-04-18 14:43:57 : INFO] - Semaphore lock (smush) complete 
+[2020-04-18 14:43:57 : INFO] - Processing task with ID : 64, and type 'smush' 
+[2020-04-18 14:43:57 : INFO] - Re_Smush_It_Task with attachment ID : 433, autocreated on : April 18, 2020 02:37:39 
+[2020-04-18 14:43:58 : INFO] - 95 
+[2020-04-18 14:43:59 : INFO] - Backing up the original image - 2020/04/widex-uni-dex-neckloop-for-streaming-updraft-pre-smush-original.jpg 
+[2020-04-18 14:43:59 : INFO] - Re_Smush_It_Task with attachment ID : 433, autocreated on : April 18, 2020 02:37:39 
+[2020-04-18 14:43:59 : INFO] - 95 
+[2020-04-18 14:44:00 : INFO] - Re_Smush_It_Task with attachment ID : 433, autocreated on : April 18, 2020 02:37:39 
+[2020-04-18 14:44:00 : INFO] - 95 
+[2020-04-18 14:44:00 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/04/widex-uni-dex-neckloop-for-streaming.jpg.The file was compressed from 14.36 KB to 14.36 KB saving 0 percent using WP-Optimize 
+[2020-04-18 14:44:00 : INFO] - Completed processing task with ID : 64, and type 'smush' 
+[2020-04-18 14:44:00 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-04-18 14:44:00 : INFO] - Semaphore (smush) unlocked 
+[2020-04-18 14:44:00 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-04-18 14:44:00 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-04-18 14:44:00 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-04-18 14:45:29 : INFO] - Re_Smush_It_Task with attachment ID : 436, autocreated on : April 18, 2020 02:45:29 
+[2020-04-18 14:54:59 : INFO] - 
+ 
+[2020-04-18 14:54:59 : INFO] - Header for logs at time:  Sat, 18 Apr 2020 14:54:59 +0000 on http://localhost/testsite 
+[2020-04-18 14:54:59 : INFO] - WP: 5.4 
+[2020-04-18 14:54:59 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-18 14:54:59 : INFO] - MySQL: 5.7.26 
+[2020-04-18 14:54:59 : INFO] - WPLANG: en_CA 
+[2020-04-18 14:54:59 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-18 14:54:59 : INFO] - Outbound connections: N 
+[2020-04-18 14:54:59 : INFO] - safe_mode: 0 
+[2020-04-18 14:54:59 : INFO] - max_execution_time: 300 
+[2020-04-18 14:54:59 : INFO] - memory_limit: 1G (used: 9.9M | 2M) 
+[2020-04-18 14:54:59 : INFO] - multisite: N 
+[2020-04-18 14:54:59 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-18 14:54:59 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-04-18 14:54:59 : INFO] - Set semaphore last lock (smush) time to 2020-04-18 14:54:59 
+[2020-04-18 14:54:59 : INFO] - Semaphore lock (smush) complete 
+[2020-04-18 14:54:59 : INFO] - Processing task with ID : 65, and type 'smush' 
+[2020-04-18 14:54:59 : INFO] - Re_Smush_It_Task with attachment ID : 436, autocreated on : April 18, 2020 02:45:29 
+[2020-04-18 14:54:59 : INFO] - 95 
+[2020-04-18 14:55:01 : INFO] - Backing up the original image - 2020/04/oticon-connectline-streamer-pro-updraft-pre-smush-original.jpg 
+[2020-04-18 14:55:01 : INFO] - Re_Smush_It_Task with attachment ID : 436, autocreated on : April 18, 2020 02:45:29 
+[2020-04-18 14:55:01 : INFO] - 95 
+[2020-04-18 14:55:03 : INFO] - Re_Smush_It_Task with attachment ID : 436, autocreated on : April 18, 2020 02:45:29 
+[2020-04-18 14:55:03 : INFO] - 95 
+[2020-04-18 14:55:04 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/04/oticon-connectline-streamer-pro.jpg.The file was compressed from 20.90 KB to 18.68 KB saving 10.65 percent using WP-Optimize 
+[2020-04-18 14:55:04 : INFO] - Completed processing task with ID : 65, and type 'smush' 
+[2020-04-18 14:55:04 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-04-18 14:55:04 : INFO] - Semaphore (smush) unlocked 
+[2020-04-18 14:55:04 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-04-18 14:55:04 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-04-18 14:55:04 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-04-18 14:58:02 : INFO] - Re_Smush_It_Task with attachment ID : 437, autocreated on : April 18, 2020 02:58:02 
+[2020-04-18 15:06:14 : INFO] - 
+ 
+[2020-04-18 15:06:14 : INFO] - Header for logs at time:  Sat, 18 Apr 2020 15:06:14 +0000 on http://localhost/testsite 
+[2020-04-18 15:06:14 : INFO] - WP: 5.4 
+[2020-04-18 15:06:14 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-18 15:06:14 : INFO] - MySQL: 5.7.26 
+[2020-04-18 15:06:14 : INFO] - WPLANG: en_CA 
+[2020-04-18 15:06:14 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-18 15:06:14 : INFO] - Outbound connections: N 
+[2020-04-18 15:06:14 : INFO] - safe_mode: 0 
+[2020-04-18 15:06:14 : INFO] - max_execution_time: 300 
+[2020-04-18 15:06:14 : INFO] - memory_limit: 1G (used: 9.9M | 2M) 
+[2020-04-18 15:06:14 : INFO] - multisite: N 
+[2020-04-18 15:06:14 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-18 15:06:14 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-04-18 15:06:14 : INFO] - Set semaphore last lock (smush) time to 2020-04-18 15:06:14 
+[2020-04-18 15:06:14 : INFO] - Semaphore lock (smush) complete 
+[2020-04-18 15:06:14 : INFO] - Processing task with ID : 66, and type 'smush' 
+[2020-04-18 15:06:14 : INFO] - Re_Smush_It_Task with attachment ID : 437, autocreated on : April 18, 2020 02:58:02 
+[2020-04-18 15:06:14 : INFO] - 95 
+[2020-04-18 15:06:16 : INFO] - Backing up the original image - 2020/04/resound-multi-mic-streamer-updraft-pre-smush-original.jpg 
+[2020-04-18 15:06:16 : INFO] - Re_Smush_It_Task with attachment ID : 437, autocreated on : April 18, 2020 02:58:02 
+[2020-04-18 15:06:16 : INFO] - 95 
+[2020-04-18 15:06:16 : INFO] - Re_Smush_It_Task with attachment ID : 437, autocreated on : April 18, 2020 02:58:02 
+[2020-04-18 15:06:16 : INFO] - 95 
+[2020-04-18 15:06:17 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/04/resound-multi-mic-streamer.jpg.The file was compressed from 23.20 KB to 20.70 KB saving 10.77 percent using WP-Optimize 
+[2020-04-18 15:06:17 : INFO] - Completed processing task with ID : 66, and type 'smush' 
+[2020-04-18 15:06:17 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-04-18 15:06:17 : INFO] - Semaphore (smush) unlocked 
+[2020-04-18 15:06:17 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-04-18 15:06:17 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-04-18 15:06:17 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-04-18 15:13:07 : INFO] - Re_Smush_It_Task with attachment ID : 441, autocreated on : April 18, 2020 03:13:07 
+[2020-04-18 15:17:39 : INFO] - 
+ 
+[2020-04-18 15:17:39 : INFO] - Header for logs at time:  Sat, 18 Apr 2020 15:17:39 +0000 on http://localhost/testsite 
+[2020-04-18 15:17:39 : INFO] - WP: 5.4 
+[2020-04-18 15:17:39 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-18 15:17:39 : INFO] - MySQL: 5.7.26 
+[2020-04-18 15:17:39 : INFO] - WPLANG: en_CA 
+[2020-04-18 15:17:39 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-18 15:17:39 : INFO] - Outbound connections: N 
+[2020-04-18 15:17:39 : INFO] - safe_mode: 0 
+[2020-04-18 15:17:39 : INFO] - max_execution_time: 300 
+[2020-04-18 15:17:39 : INFO] - memory_limit: 1G (used: 9.9M | 2M) 
+[2020-04-18 15:17:39 : INFO] - multisite: N 
+[2020-04-18 15:17:39 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-18 15:17:39 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-04-18 15:17:39 : INFO] - Set semaphore last lock (smush) time to 2020-04-18 15:17:39 
+[2020-04-18 15:17:39 : INFO] - Semaphore lock (smush) complete 
+[2020-04-18 15:17:39 : INFO] - Processing task with ID : 67, and type 'smush' 
+[2020-04-18 15:17:39 : INFO] - Re_Smush_It_Task with attachment ID : 441, autocreated on : April 18, 2020 03:13:07 
+[2020-04-18 15:17:40 : INFO] - 95 
+[2020-04-18 15:17:41 : INFO] - Backing up the original image - 2020/04/resound-multi-mic-streamer-1-updraft-pre-smush-original.jpg 
+[2020-04-18 15:17:41 : INFO] - Re_Smush_It_Task with attachment ID : 441, autocreated on : April 18, 2020 03:13:07 
+[2020-04-18 15:17:41 : INFO] - 95 
+[2020-04-18 15:17:42 : INFO] - Re_Smush_It_Task with attachment ID : 441, autocreated on : April 18, 2020 03:13:07 
+[2020-04-18 15:17:42 : INFO] - 95 
+[2020-04-18 15:17:43 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/04/resound-multi-mic-streamer-1.jpg.The file was compressed from 34.13 KB to 32.39 KB saving 5.11 percent using WP-Optimize 
+[2020-04-18 15:17:43 : INFO] - Completed processing task with ID : 67, and type 'smush' 
+[2020-04-18 15:17:43 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-04-18 15:17:43 : INFO] - Semaphore (smush) unlocked 
+[2020-04-18 15:17:43 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-04-18 15:17:43 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-04-18 15:17:43 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-04-18 15:17:49 : INFO] - Re_Smush_It_Task with attachment ID : 443, autocreated on : April 18, 2020 03:17:49 
+[2020-04-18 15:28:42 : INFO] - 
+ 
+[2020-04-18 15:28:42 : INFO] - Header for logs at time:  Sat, 18 Apr 2020 15:28:42 +0000 on http://localhost/testsite 
+[2020-04-18 15:28:42 : INFO] - WP: 5.4 
+[2020-04-18 15:28:42 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-18 15:28:42 : INFO] - MySQL: 5.7.26 
+[2020-04-18 15:28:42 : INFO] - WPLANG: en_CA 
+[2020-04-18 15:28:42 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-18 15:28:42 : INFO] - Outbound connections: N 
+[2020-04-18 15:28:42 : INFO] - safe_mode: 0 
+[2020-04-18 15:28:42 : INFO] - max_execution_time: 300 
+[2020-04-18 15:28:42 : INFO] - memory_limit: 1G (used: 9.9M | 2M) 
+[2020-04-18 15:28:42 : INFO] - multisite: N 
+[2020-04-18 15:28:42 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-18 15:28:42 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-04-18 15:28:42 : INFO] - Set semaphore last lock (smush) time to 2020-04-18 15:28:42 
+[2020-04-18 15:28:42 : INFO] - Semaphore lock (smush) complete 
+[2020-04-18 15:28:42 : INFO] - Processing task with ID : 68, and type 'smush' 
+[2020-04-18 15:28:42 : INFO] - Re_Smush_It_Task with attachment ID : 443, autocreated on : April 18, 2020 03:17:49 
+[2020-04-18 15:28:42 : INFO] - 95 
+[2020-04-18 15:28:44 : INFO] - Backing up the original image - 2020/04/bernafon-soundgate-3-streamer-updraft-pre-smush-original.jpg 
+[2020-04-18 15:28:44 : INFO] - Re_Smush_It_Task with attachment ID : 443, autocreated on : April 18, 2020 03:17:49 
+[2020-04-18 15:28:44 : INFO] - 95 
+[2020-04-18 15:28:44 : INFO] - Re_Smush_It_Task with attachment ID : 443, autocreated on : April 18, 2020 03:17:49 
+[2020-04-18 15:28:44 : INFO] - 95 
+[2020-04-18 15:28:45 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/04/bernafon-soundgate-3-streamer.jpg.The file was compressed from 26.92 KB to 23.95 KB saving 11.04 percent using WP-Optimize 
+[2020-04-18 15:28:45 : INFO] - Completed processing task with ID : 68, and type 'smush' 
+[2020-04-18 15:28:45 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-04-18 15:28:45 : INFO] - Semaphore (smush) unlocked 
+[2020-04-18 15:28:45 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-04-18 15:28:45 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-04-18 15:28:45 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-04-18 15:39:10 : INFO] - 
+ 
+[2020-04-18 15:39:10 : INFO] - Header for logs at time:  Sat, 18 Apr 2020 15:39:10 +0000 on http://localhost/testsite 
+[2020-04-18 15:39:10 : INFO] - WP: 5.4 
+[2020-04-18 15:39:10 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-18 15:39:10 : INFO] - MySQL: 5.7.26 
+[2020-04-18 15:39:10 : INFO] - WPLANG: en_CA 
+[2020-04-18 15:39:10 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-18 15:39:10 : INFO] - Outbound connections: N 
+[2020-04-18 15:39:10 : INFO] - safe_mode: 0 
+[2020-04-18 15:39:10 : INFO] - max_execution_time: 300 
+[2020-04-18 15:39:10 : INFO] - memory_limit: 1G (used: 9.9M | 2M) 
+[2020-04-18 15:39:10 : INFO] - multisite: N 
+[2020-04-18 15:39:10 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-18 15:39:10 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-04-18 16:46:10 : INFO] - Re_Smush_It_Task with attachment ID : 448, autocreated on : April 18, 2020 04:46:10 
+[2020-04-18 16:51:30 : INFO] - 
+ 
+[2020-04-18 16:51:30 : INFO] - Header for logs at time:  Sat, 18 Apr 2020 16:51:30 +0000 on http://localhost/testsite 
+[2020-04-18 16:51:30 : INFO] - WP: 5.4 
+[2020-04-18 16:51:30 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-18 16:51:30 : INFO] - MySQL: 5.7.26 
+[2020-04-18 16:51:30 : INFO] - WPLANG: en_CA 
+[2020-04-18 16:51:30 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-18 16:51:30 : INFO] - Outbound connections: N 
+[2020-04-18 16:51:30 : INFO] - safe_mode: 0 
+[2020-04-18 16:51:30 : INFO] - max_execution_time: 300 
+[2020-04-18 16:51:30 : INFO] - memory_limit: 1G (used: 9.9M | 2M) 
+[2020-04-18 16:51:30 : INFO] - multisite: N 
+[2020-04-18 16:51:30 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-18 16:51:30 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-04-18 16:51:30 : INFO] - Set semaphore last lock (smush) time to 2020-04-18 16:51:30 
+[2020-04-18 16:51:30 : INFO] - Semaphore lock (smush) complete 
+[2020-04-18 16:51:30 : INFO] - Processing task with ID : 69, and type 'smush' 
+[2020-04-18 16:51:30 : INFO] - Re_Smush_It_Task with attachment ID : 448, autocreated on : April 18, 2020 04:46:10 
+[2020-04-18 16:51:30 : INFO] - 95 
+[2020-04-18 16:51:31 : INFO] - Backing up the original image - 2020/04/auxiliary-cord-updraft-pre-smush-original.jpg 
+[2020-04-18 16:51:31 : INFO] - Re_Smush_It_Task with attachment ID : 448, autocreated on : April 18, 2020 04:46:10 
+[2020-04-18 16:51:31 : INFO] - 95 
+[2020-04-18 16:51:32 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/04/auxiliary-cord.jpg.The file was compressed from 3.05 KB to 3.05 KB saving 0 percent using WP-Optimize 
+[2020-04-18 16:51:32 : INFO] - Completed processing task with ID : 69, and type 'smush' 
+[2020-04-18 16:51:32 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-04-18 16:51:32 : INFO] - Semaphore (smush) unlocked 
+[2020-04-18 16:51:32 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-04-18 16:51:32 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-04-18 16:51:32 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-04-18 17:02:24 : INFO] - 
+ 
+[2020-04-18 17:02:24 : INFO] - Header for logs at time:  Sat, 18 Apr 2020 17:02:24 +0000 on http://localhost/testsite 
+[2020-04-18 17:02:24 : INFO] - WP: 5.4 
+[2020-04-18 17:02:24 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-18 17:02:24 : INFO] - MySQL: 5.7.26 
+[2020-04-18 17:02:24 : INFO] - WPLANG: en_CA 
+[2020-04-18 17:02:24 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-18 17:02:24 : INFO] - Outbound connections: N 
+[2020-04-18 17:02:24 : INFO] - safe_mode: 0 
+[2020-04-18 17:02:24 : INFO] - max_execution_time: 300 
+[2020-04-18 17:02:24 : INFO] - memory_limit: 1G (used: 9.9M | 2M) 
+[2020-04-18 17:02:24 : INFO] - multisite: N 
+[2020-04-18 17:02:24 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-18 17:02:24 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-04-18 18:23:44 : INFO] - Re_Smush_It_Task with attachment ID : 458, autocreated on : April 18, 2020 06:23:44 
+[2020-04-18 18:25:24 : INFO] - Re_Smush_It_Task with attachment ID : 459, autocreated on : April 18, 2020 06:25:24 
+[2020-04-18 18:28:44 : INFO] - 
+ 
+[2020-04-18 18:28:44 : INFO] - Header for logs at time:  Sat, 18 Apr 2020 18:28:44 +0000 on http://localhost/testsite 
+[2020-04-18 18:28:44 : INFO] - WP: 5.4 
+[2020-04-18 18:28:45 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-18 18:28:45 : INFO] - MySQL: 5.7.26 
+[2020-04-18 18:28:45 : INFO] - WPLANG: en_CA 
+[2020-04-18 18:28:45 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-18 18:28:45 : INFO] - Outbound connections: N 
+[2020-04-18 18:28:45 : INFO] - safe_mode: 0 
+[2020-04-18 18:28:45 : INFO] - max_execution_time: 300 
+[2020-04-18 18:28:45 : INFO] - memory_limit: 1G (used: 9.9M | 2M) 
+[2020-04-18 18:28:45 : INFO] - multisite: N 
+[2020-04-18 18:28:45 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-18 18:28:45 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2020-04-18 18:28:45 : INFO] - Set semaphore last lock (smush) time to 2020-04-18 18:28:45 
+[2020-04-18 18:28:45 : INFO] - Semaphore lock (smush) complete 
+[2020-04-18 18:28:45 : INFO] - Processing task with ID : 71, and type 'smush' 
+[2020-04-18 18:28:45 : INFO] - Re_Smush_It_Task with attachment ID : 459, autocreated on : April 18, 2020 06:25:24 
+[2020-04-18 18:28:45 : INFO] - 95 
+[2020-04-18 18:28:46 : INFO] - Backing up the original image - 2020/04/rexton-smart-connect-and-signia-easytek-1-updraft-pre-smush-original.jpg 
+[2020-04-18 18:28:46 : INFO] - Re_Smush_It_Task with attachment ID : 459, autocreated on : April 18, 2020 06:25:24 
+[2020-04-18 18:28:46 : INFO] - 95 
+[2020-04-18 18:28:46 : INFO] - Re_Smush_It_Task with attachment ID : 459, autocreated on : April 18, 2020 06:25:24 
+[2020-04-18 18:28:46 : INFO] - 95 
+[2020-04-18 18:28:47 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/04/rexton-smart-connect-and-signia-easytek-1.jpg.The file was compressed from 13.60 KB to 12.45 KB saving 8.46 percent using WP-Optimize 
+[2020-04-18 18:28:47 : INFO] - Completed processing task with ID : 71, and type 'smush' 
+[2020-04-18 18:28:47 : INFO] - Processing task with ID : 70, and type 'smush' 
+[2020-04-18 18:28:47 : INFO] - Re_Smush_It_Task with attachment ID : 458, autocreated on : April 18, 2020 06:23:44 
+[2020-04-18 18:28:47 : INFO] - 95 
+[2020-04-18 18:28:48 : INFO] - Backing up the original image - 2020/04/rexton-smart-connect-and-signia-easytek-updraft-pre-smush-original.jpg 
+[2020-04-18 18:28:48 : INFO] - Re_Smush_It_Task with attachment ID : 458, autocreated on : April 18, 2020 06:23:44 
+[2020-04-18 18:28:48 : INFO] - 95 
+[2020-04-18 18:28:49 : INFO] - Re_Smush_It_Task with attachment ID : 458, autocreated on : April 18, 2020 06:23:44 
+[2020-04-18 18:28:49 : INFO] - 95 
+[2020-04-18 18:28:50 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/04/rexton-smart-connect-and-signia-easytek.jpg.The file was compressed from 23.03 KB to 21.34 KB saving 7.34 percent using WP-Optimize 
+[2020-04-18 18:28:50 : INFO] - Completed processing task with ID : 70, and type 'smush' 
+[2020-04-18 18:28:50 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-04-18 18:28:50 : INFO] - Semaphore (smush) unlocked 
+[2020-04-18 18:28:50 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2020-04-18 18:28:50 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-04-18 18:28:50 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2020-04-18 18:29:02 : INFO] - Re_Smush_It_Task with attachment ID : 460, autocreated on : April 18, 2020 06:29:02 
+[2020-04-18 18:38:44 : INFO] - 
+ 
+[2020-04-18 18:38:44 : INFO] - Header for logs at time:  Sat, 18 Apr 2020 18:38:44 +0000 on http://localhost/testsite 
+[2020-04-18 18:38:44 : INFO] - WP: 5.4 
+[2020-04-18 18:38:44 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-18 18:38:44 : INFO] - MySQL: 5.7.26 
+[2020-04-18 18:38:44 : INFO] - WPLANG: en_CA 
+[2020-04-18 18:38:44 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-18 18:38:44 : INFO] - Outbound connections: N 
+[2020-04-18 18:38:44 : INFO] - safe_mode: 0 
+[2020-04-18 18:38:44 : INFO] - max_execution_time: 300 
+[2020-04-18 18:38:44 : INFO] - memory_limit: 1G (used: 9.9M | 2M) 
+[2020-04-18 18:38:44 : INFO] - multisite: N 
+[2020-04-18 18:38:44 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-18 18:38:44 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-04-18 18:38:44 : INFO] - Set semaphore last lock (smush) time to 2020-04-18 18:38:44 
+[2020-04-18 18:38:44 : INFO] - Semaphore lock (smush) complete 
+[2020-04-18 18:38:44 : INFO] - Processing task with ID : 72, and type 'smush' 
+[2020-04-18 18:38:44 : INFO] - Re_Smush_It_Task with attachment ID : 460, autocreated on : April 18, 2020 06:29:02 
+[2020-04-18 18:38:44 : INFO] - 95 
+[2020-04-18 18:38:47 : INFO] - Backing up the original image - 2020/04/widex-uni-dex-neckloop-for-streaming-1-updraft-pre-smush-original.jpg 
+[2020-04-18 18:38:47 : INFO] - Re_Smush_It_Task with attachment ID : 460, autocreated on : April 18, 2020 06:29:02 
+[2020-04-18 18:38:47 : INFO] - 95 
+[2020-04-18 18:38:47 : INFO] - Re_Smush_It_Task with attachment ID : 460, autocreated on : April 18, 2020 06:29:02 
+[2020-04-18 18:38:47 : INFO] - 95 
+[2020-04-18 18:38:48 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/04/widex-uni-dex-neckloop-for-streaming-1.jpg.The file was compressed from 9.63 KB to 8.41 KB saving 12.67 percent using WP-Optimize 
+[2020-04-18 18:38:48 : INFO] - Completed processing task with ID : 72, and type 'smush' 
+[2020-04-18 18:38:48 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-04-18 18:38:48 : INFO] - Semaphore (smush) unlocked 
+[2020-04-18 18:38:48 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-04-18 18:38:48 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-04-18 18:38:48 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-04-18 20:54:18 : INFO] - 
+ 
+[2020-04-18 20:54:18 : INFO] - Header for logs at time:  Sat, 18 Apr 2020 20:54:18 +0000 on http://localhost/testsite 
+[2020-04-18 20:54:18 : INFO] - WP: 5.4 
+[2020-04-18 20:54:18 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-18 20:54:18 : INFO] - MySQL: 5.7.26 
+[2020-04-18 20:54:18 : INFO] - WPLANG: en_CA 
+[2020-04-18 20:54:18 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-18 20:54:18 : INFO] - Outbound connections: N 
+[2020-04-18 20:54:18 : INFO] - safe_mode: 0 
+[2020-04-18 20:54:18 : INFO] - max_execution_time: 300 
+[2020-04-18 20:54:18 : INFO] - memory_limit: 1G (used: 9.9M | 2M) 
+[2020-04-18 20:54:18 : INFO] - multisite: N 
+[2020-04-18 20:54:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-18 20:54:18 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-04-19 14:18:51 : INFO] - Re_Smush_It_Task with attachment ID : 464, autocreated on : April 19, 2020 02:18:51 
+[2020-04-19 14:18:58 : INFO] - Re_Smush_It_Task with attachment ID : 465, autocreated on : April 19, 2020 02:18:58 
+[2020-04-19 14:24:12 : INFO] - 
+ 
+[2020-04-19 14:24:12 : INFO] - Header for logs at time:  Sun, 19 Apr 2020 14:24:12 +0000 on http://localhost/testsite 
+[2020-04-19 14:24:12 : INFO] - WP: 5.4 
+[2020-04-19 14:24:12 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-19 14:24:12 : INFO] - MySQL: 5.7.26 
+[2020-04-19 14:24:12 : INFO] - WPLANG: en_CA 
+[2020-04-19 14:24:12 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-19 14:24:12 : INFO] - Outbound connections: N 
+[2020-04-19 14:24:12 : INFO] - safe_mode: 0 
+[2020-04-19 14:24:12 : INFO] - max_execution_time: 300 
+[2020-04-19 14:24:12 : INFO] - memory_limit: 1G (used: 9.9M | 8M) 
+[2020-04-19 14:24:12 : INFO] - multisite: N 
+[2020-04-19 14:24:12 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-19 14:24:12 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2020-04-19 14:24:12 : INFO] - Set semaphore last lock (smush) time to 2020-04-19 14:24:12 
+[2020-04-19 14:24:12 : INFO] - Semaphore lock (smush) complete 
+[2020-04-19 14:24:12 : INFO] - Processing task with ID : 74, and type 'smush' 
+[2020-04-19 14:24:12 : INFO] - Re_Smush_It_Task with attachment ID : 465, autocreated on : April 19, 2020 02:18:58 
+[2020-04-19 14:24:12 : INFO] - 95 
+[2020-04-19 14:24:14 : INFO] - Backing up the original image - 2020/04/fidelio-assistive-listening-device-1-updraft-pre-smush-original.jpg 
+[2020-04-19 14:24:14 : INFO] - Re_Smush_It_Task with attachment ID : 465, autocreated on : April 19, 2020 02:18:58 
+[2020-04-19 14:24:14 : INFO] - 95 
+[2020-04-19 14:24:16 : INFO] - Re_Smush_It_Task with attachment ID : 465, autocreated on : April 19, 2020 02:18:58 
+[2020-04-19 14:24:16 : INFO] - 95 
+[2020-04-19 14:24:16 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/04/fidelio-assistive-listening-device-1.jpg.The file was compressed from 14.45 KB to 14.05 KB saving 2.8 percent using WP-Optimize 
+[2020-04-19 14:24:16 : INFO] - Completed processing task with ID : 74, and type 'smush' 
+[2020-04-19 14:24:16 : INFO] - Processing task with ID : 73, and type 'smush' 
+[2020-04-19 14:24:16 : INFO] - Re_Smush_It_Task with attachment ID : 464, autocreated on : April 19, 2020 02:18:51 
+[2020-04-19 14:24:16 : INFO] - 95 
+[2020-04-19 14:24:17 : INFO] - Backing up the original image - 2020/04/fidelio-assistive-listening-device-updraft-pre-smush-original.jpg 
+[2020-04-19 14:24:18 : INFO] - Re_Smush_It_Task with attachment ID : 464, autocreated on : April 19, 2020 02:18:51 
+[2020-04-19 14:24:18 : INFO] - 95 
+[2020-04-19 14:24:18 : INFO] - Re_Smush_It_Task with attachment ID : 464, autocreated on : April 19, 2020 02:18:51 
+[2020-04-19 14:24:18 : INFO] - 95 
+[2020-04-19 14:24:20 : INFO] - Successfully optimized the image - C:\wamp64\www\testsite/wp-content/uploads/2020/04/fidelio-assistive-listening-device.jpg.The file was compressed from 14.45 KB to 14.05 KB saving 2.8 percent using WP-Optimize 
+[2020-04-19 14:24:20 : INFO] - Completed processing task with ID : 73, and type 'smush' 
+[2020-04-19 14:24:20 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-04-19 14:24:20 : INFO] - Semaphore (smush) unlocked 
+[2020-04-19 14:24:20 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2020-04-19 14:24:20 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-04-19 14:24:20 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2020-04-19 14:34:47 : INFO] - 
+ 
+[2020-04-19 14:34:47 : INFO] - Header for logs at time:  Sun, 19 Apr 2020 14:34:47 +0000 on http://localhost/testsite 
+[2020-04-19 14:34:47 : INFO] - WP: 5.4 
+[2020-04-19 14:34:47 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2020-04-19 14:34:47 : INFO] - MySQL: 5.7.26 
+[2020-04-19 14:34:47 : INFO] - WPLANG: en_CA 
+[2020-04-19 14:34:47 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-04-19 14:34:47 : INFO] - Outbound connections: N 
+[2020-04-19 14:34:47 : INFO] - safe_mode: 0 
+[2020-04-19 14:34:47 : INFO] - max_execution_time: 300 
+[2020-04-19 14:34:47 : INFO] - memory_limit: 1G (used: 9.9M | 2M) 
+[2020-04-19 14:34:47 : INFO] - multisite: N 
+[2020-04-19 14:34:47 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-04-19 14:34:47 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
