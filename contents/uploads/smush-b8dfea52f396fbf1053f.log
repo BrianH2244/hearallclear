@@ -1638,3 +1638,18 @@
 [2021-01-30 12:21:31 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
 [2021-01-30 12:21:31 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
 [2021-01-30 12:21:31 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2021-01-30 12:32:24 : INFO] - 
+ 
+[2021-01-30 12:32:24 : INFO] - Header for logs at time:  Sat, 30 Jan 2021 12:32:24 +0000 on http://localhost/testsite 
+[2021-01-30 12:32:24 : INFO] - WP: 5.6 
+[2021-01-30 12:32:24 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 18363 (Windows 10) AMD64) 
+[2021-01-30 12:32:24 : INFO] - MySQL: 5.7.26 
+[2021-01-30 12:32:24 : INFO] - WPLANG: en_CA 
+[2021-01-30 12:32:24 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2021-01-30 12:32:24 : INFO] - Outbound connections: N 
+[2021-01-30 12:32:24 : INFO] - safe_mode: 0 
+[2021-01-30 12:32:24 : INFO] - max_execution_time: 300 
+[2021-01-30 12:32:24 : INFO] - memory_limit: 1G (used: 10.1M | 8M) 
+[2021-01-30 12:32:24 : INFO] - multisite: N 
+[2021-01-30 12:32:24 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-01-30 12:32:24 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
