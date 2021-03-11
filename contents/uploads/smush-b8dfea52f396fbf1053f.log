@@ -1653,3 +1653,12 @@
 [2021-01-30 12:32:24 : INFO] - multisite: N 
 [2021-01-30 12:32:24 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
 [2021-01-30 12:32:24 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-02-04 11:44:20 : INFO] - Could not find file for image: ID=131, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-ear_wide-1.jpg 
+[2021-02-04 11:44:20 : INFO] - Could not find file for image: ID=122, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-hearing-aid-logo-5.png 
+[2021-02-04 11:44:20 : INFO] - Could not find file for image: ID=120, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-favicon-3.png 
+[2021-02-04 11:44:20 : INFO] - Could not find file for image: ID=118, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-hearing-aid-logo-4.png 
+[2021-02-04 11:44:20 : INFO] - Could not find file for image: ID=115, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-hearing-aid-logo-3.png 
+[2021-02-04 11:44:20 : INFO] - Could not find file for image: ID=28, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-hearing-aid-logo-2.png 
+[2021-02-04 11:44:20 : INFO] - Could not find file for image: ID=26, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-hearing-aid-logo-1.png 
+[2021-02-04 11:44:20 : INFO] - Could not find file for image: ID=24, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-ear_wide.jpg 
+[2021-02-04 11:44:20 : INFO] - Could not find file for image: ID=23, file=C:\wamp64\www\testsite/wp-content/uploads/2019/11/cropped-favicon-1.png 
